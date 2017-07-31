@@ -1,10 +1,10 @@
 # BuildMétéo
 
-[Click here](../blob/master/cao2017icsme.pdf) to read our paper in ICSME'17.
+[Click here](./blob/master/cao2017icsme.pdf) to read our paper in ICSME'17.
 
 ## Preparation
 
-Before running [BuildMeteo.rb](../blob/master/BuildMeteo.rb), you should:
+Before running [BuildMeteo.rb](./blob/master/BuildMeteo.rb), you should:
 
   1. If you wish to estimate the build duration for VTK, run `git clone https://gitlab.kitware.com/vtk/vtk.git`; otherwise, for GLib, run `git clone https://github.com/GNOME/glib`
   2. Download [MAKAO](http://mcis.polymtl.ca/makao.html)
