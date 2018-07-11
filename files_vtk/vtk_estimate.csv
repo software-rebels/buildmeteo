@@ -1,0 +1,1407 @@
+Commit,EstimatedTime,Message,RealTime 
+3ecb4cd940a1b4c232b280d55da5939b86d1ec8a,12,This commit contains no changed file,12
+6d942423c380f345065cca466cd11d83071ae5e5,12,This commit contains no changed file,12
+daf56a1cc21aefe20d9cb0f48b939b57a99ce4ea,12,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+ac008203087311331ec2dea361e057163e8270fb,12,The build files have been changed. Prediction may not be accurate.,156.10
+a2ae0a10f1e12c6aa454b2cdf35faa75594a65e8,12,This commit contains no changed file,12
+b80ecbf0aa38b6a3519febc88b29daf122a51e57,12,,12.18
+5efcd8d2a99017988ec0c66a700a5555fca5e0e9,40.02,,43.89
+4d6be94bbf38e83c28ba0ab343f28fd4da87d432,12,This commit contains no changed file,12
+60d6c9acdf09b7d24c456759b267ac524b2f0962,12,The build files have been changed. Prediction may not be accurate.,11.44
+6b7e888a2c2d91956af0bf8dcd8a48c9717b9d76,12,The build files have been changed. Prediction may not be accurate.,11.50
+0a5666757d84b3ad62e3fda4032dafe60d3f21f5,12,The build files have been changed. Prediction may not be accurate.,140.48
+a849580122154f99ab343e8ab2eb40b49c05f89d,12,The build files have been changed. Prediction may not be accurate.,11.41
+46a54e5ab8e77d817fd6bfa0816c9e987673c896,34.43,,33.25
+69bafcd8bada56f7b307740f53635e8adc980408,123.58999999999997,,124.25
+fff730946a7c779fe5cb34d199a3028388e57e6f,39.150000000000006,,39.71
+5146150ed9d33345fe7d2d606a230a86c738dc91,12,,11.56
+9d952e9283c66ed8c86fd92d54216504e9fe50ed,70.01999999999998,,72.74
+e7e71c4e513b93d9879a797708cf362e3cc5bf66,12,,11.25
+d9d26ba4d9225dd0c7bd28cff35af39a6e3bf3d7,12,This commit contains no changed file,12
+1cbd9fde716101d363aba9d34d96feb8ecbdd856,12,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+ea74dd0bfcd2ab93c8b668648693f6393d8cc93c,12,,make: *** No targets specified and no makefile found.  Stop.
+1cb28ce76d1480efe6b11d76dd83fafc038f197e,67.62999999999998,,make: *** No targets specified and no makefile found.  Stop.
+4a1fbefe00db0184aa088eaacdd08a023c666f9f,12,The build files have been changed. Prediction may not be accurate.,142.25
+88dfac4a47cf8cdf0aca82e649753a5f5e85fe42,106.66000000000003,,110.37
+986d4c8b75c9a2cf85e0dc5564e652d6bd48c735,67.23999999999998,,69.49
+255ce36a139fd49f3c90a8bf5dc568d5cc69fc18,12,This commit contains no changed file,12
+b5af8d4bbd5d348623c2c7451a417e07e3010c9a,12,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+bfbdc62b93cdaa843e58b2e481d841c762f9ffcd,12,The build files have been changed. Prediction may not be accurate.,142.16
+1ddf7372bd7ce3329033beea21dc0cc638e6e136,343.92999999999995,,351.15
+a16e1843cf92f5159d6b002b12f0a045e9d2c161,343.92999999999995,,350.01
+d9c5ca00826dafabd8ddd87e409e1611f42ec621,343.92999999999995,,353.06
+8af584db104054a9350bb4107ada0cb1dbbb06cc,12,,11.61
+d0ecfc35705267e22213297a49b23550b74ded24,343.92999999999995,,349.96
+7afac239c92064750ed9bfab24a120dc26915a57,343.92999999999995,,350.84
+ff41bfc5ce7e1a88fcfbba8749b562f9606ca50a,12,This commit contains no changed file,12
+3eda5f89ae77d218ba854201fa1d02f803055f48,12,,11.42
+2478a6f87653f604189eec60b0b5e93ef5b8d88a,12,This commit contains no changed file,12
+aa5835311b467ccc2a947b5312a49f2ed29ce4f2,12,This commit contains no changed file,12
+d65007bd9f48be6ccfcfa7bd0e9c72e1ff86c186,12,This commit contains no changed file,12
+139daac0803aa9ef7c1b1718c4f4e656ee342bae,12,This commit contains no changed file,12
+d8fb062a7bc89b52b40ccfc71eaca7246f19022e,12,,11.44
+51a19f27c5a03dedb35507823b0467fddf160f29,12,This commit contains no changed file,12
+bf1a55acb8277231d47582a756bef5b66e52f2e4,12,This commit contains no changed file,12
+0531c5612667097dc0d4244389eb2fa3ecd695d9,12,This commit contains no changed file,12
+4032eee18eda3415766af236cfc5756e80bec3a6,12,This commit contains no changed file,12
+3c52a0ba0d36f9994c6f598369fa1322a2b47e35,12,,11.26
+f8b432d8b390a384ebec0ab4baf821bdcd456f8e,12,This commit contains no changed file,12
+efc0ec1b13feec15cbd5d84ec6ff2a2de2b71d9e,12,The build files have been changed. Prediction may not be accurate.,142.66
+fcd6444aa0e8b5bb34c8d7653ab946ccae1e41e2,12,This commit contains no changed file,12
+912eb02faa8d1b75421436c506e330cd28cb34dd,12,This commit contains no changed file,12
+864097618a6aadd9814c9332ab7fc2c99763315c,12,This commit contains no changed file,12
+dfe79f1ba4bb1988c0a96dec36ea1acd932a65c1,12,This commit contains no changed file,12
+a1cc14f4db5813906f17f6f38abc5e16fd030895,35.870000000000005,,35.19
+51072d8f489fc04c733e7939ac60dac8f7edb6d6,12,This commit contains no changed file,12
+c86fffd275fb42d7df8049f4587ccb0e7d1b8ff9,12,This commit contains no changed file,12
+f7bcf8f3c3753f8391093bb112a564d16ba2d3b4,12,The build files have been changed. Prediction may not be accurate.,2643.30
+3b89e77191ceea14e5ccd4f2970ea356b786e34b,2575.640000000003,The build files have been changed. Prediction may not be accurate.,2641.72
+aa0d779f5068877c96338785f6ac82a38dde9269,1075.959999999999,The build files have been changed. Prediction may not be accurate.,2663.46
+c9c5a9d66fc6646014791a1cd7ad8e6db0226d28,13.2,,12.80
+2acc7fb95f1a04416bc930f027303865e86f49fb,12,This commit contains no changed file,12
+4c878ac4e08f858ee20425584c6da478a9c90eba,12,This commit contains no changed file,12
+f2b64a4b4fc7153ed4a2885481842327d59820ba,12,This commit contains no changed file,12
+5c68236ac9dccf39d551f378e26bba4e225a5c52,12,This commit contains no changed file,12
+139e37e6ded10dd95e877eaac32d36db62b9891a,12,This commit contains no changed file,12
+36bb09a7a42e3428fbf570fbd09a4b1b29c8442f,2575.640000000003,The build files have been changed. Prediction may not be accurate.,2645.07
+c05a876da1219d343dbf7742cfcc62c3ef8fffa9,12,This commit contains no changed file,12
+82598a8396d5523c1e613c8039500fff9d502c44,12,This commit contains no changed file,12
+902356a9d55bdec76b9e95a8c0c68fd56ff0a55c,12,,11.47
+61c3e270736be1f9494d02a435031ebf0e9b9ee1,12,This commit contains no changed file,12
+0c4d66f3ed7cc9994b1c830f63c1b890d1985221,43.8,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+9072bbc1fde5b0ed2b8cd0b5871304296a8ab187,12,,make: *** No targets specified and no makefile found.  Stop.
+a4d38cf95ca63d9caf7923bde19cbe8ba7423868,43.8,The build files have been changed. Prediction may not be accurate.,2646.54
+181c986299dd3644fce3268839a46a7c9dd8baa7,12,This commit contains no changed file,12
+90bd4468ef3bab0ae05116093f83469a47b52763,12,This commit contains no changed file,12
+8c3c7940ca7ca03d646af25f07934f38698f8875,12,,11.47
+9a71258890d2e7e496294fc0e6fb15fe62f58ac4,39.150000000000006,,39.44
+bfb3731d7596dfc661c480265dd0a5f098c8ff00,12,This commit contains no changed file,12
+7bbbba2613ed6a4e6bda71de88238667035c7229,12,The build files have been changed. Prediction may not be accurate.,11.26
+708c3a5cef71964f20a82ef0524f0ee7543304aa,65.40999999999997,The build files have been changed. Prediction may not be accurate.,2646.87
+ff58f45e5ffc23a64e9c5a803f0d9b010cd5d540,12,This commit contains no changed file,12
+5f18d211c9d98ed3f071f6df26c3d6dc71092810,51.96000000000001,,51.46
+d103ddd02373cafbcfa7e40929df6ed857f0ab24,12,This commit contains no changed file,12
+0edf2de49f980f2f6a300181429cea7f3d28dffd,12,This commit contains no changed file,12
+55f166898a00151cad9d1c6269cf8e5c86e8994a,16.93,The build files have been changed. Prediction may not be accurate.,142.73
+0805ab93c97ad55c4d7db1dfd7cc2664235e625a,12,This commit contains no changed file,12
+816a0f60cccdab255c9192519efbb738cab27b4a,54.230000000000004,The build files have been changed. Prediction may not be accurate.,2644.57
+200a974f34b95158da609be8f631a0008b336dd6,35.870000000000005,,36.70
+3027ed2cb6763ef9fb6f9d0ca3c2c0f71fa00f57,12,This commit contains no changed file,12
+85f6df4dcf6cd2b4a07a56eb773fe6989cf6f448,12,This commit contains no changed file,12
+1a04e8a15d501e0a2895e70b4de97a9c109bbb81,12,This commit contains no changed file,12
+7e8454b9fbbe674cf42d416c9ed259edb26b68a7,12,The build files have been changed. Prediction may not be accurate.,2645.22
+c9f7a5e0432b12a33228f543393669497457d2e3,17.27,The build files have been changed. Prediction may not be accurate.,2999.06
+6495a54096caeca9ee2f9f172bf86c2df877ad59,12,The build files have been changed. Prediction may not be accurate.,2644.96
+d8795a803250999918f8f59ba17a44d324ca9d2e,12,This commit contains no changed file,12
+2c875d25d8b0eeae5010496a326047233ad1f2d4,12,The build files have been changed. Prediction may not be accurate.,2645.01
+7ee82e46559aaebf6283e53cf0ff5d01fae2ffa5,12,This commit contains no changed file,12
+25a0716270df8006aa7d38d6e7be289384710569,12,This commit contains no changed file,12
+88fc9aaa6b3101d1638be361c78dcfea7212e259,12,This commit contains no changed file,12
+bf47973dcb93a07ec7142bc3c85816f06aefbb26,12,This commit contains no changed file,12
+575209ddb070da9c568972b6d1560d3af315eee3,12,This commit contains no changed file,12
+d5c79cc00f01dcab1ac272239e7b0e85a5c0a659,12,This commit contains no changed file,12
+f658e90ef91444023eaf5dc3b89e147aaa60ccc3,12,This commit contains no changed file,12
+ac7a28f9d6dc961d7d6198d2819b7ea4b0fe9255,72.28999999999999,,71.67
+d3cf0c5b889c11acabdfddddfddf359778a03cf3,12,This commit contains no changed file,12
+be6596d576f6db5b44d53f14d4c523e59b77681c,12,,11.36
+029c8002e5452af4a834c838f0e79b938eea9c45,52.690000000000005,,53.71
+a4275ab0fad6429f41e1a9426b2ebe69b022c3a7,12,,11.32
+d5a549c9cab01ab9cd4c9a346796e4fa64cd17a6,12,The build files have been changed. Prediction may not be accurate.,141.05
+417d6fded833f95ed9cb3f61331c9b79c4b7fbcb,21.689999999999998,,20.76
+9d96017ac3c0ae461500a953ba40dad3b175bd62,12,,11.37
+cff62a106f99c9bac3d1bc4a4e449d28b7d94285,78.92,The build files have been changed. Prediction may not be accurate.,80.14
+ae30efa55ecf18264243e20a40a72391d8f6b2a3,12,This commit contains no changed file,12
+7794d4dc43875ccfa7b6bf525cdeaaa571945dd4,12,This commit contains no changed file,12
+1c6dadde954cf0823e97f5f52920649c2724be53,12,This commit contains no changed file,12
+0c09dd3a6832e5c13e6afb6f2fdfcc6bfe0df35c,12,This commit contains no changed file,12
+cfde98ae1a2e5358066d6c207aee6b11e68f570d,12,This commit contains no changed file,12
+3daf2583e032b94a01081f20ef74bd3ae46359bf,12,,11.37
+e4b922d0f9a349b8a17e19ccd5c77facaeb1099d,12,This commit contains no changed file,12
+263583d1ced875bc422325dc6123d0309b0612ed,72.13,,70.53
+2f9e52b047e89d08ea333acc40d738af5d6315ae,12,This commit contains no changed file,12
+ef49e577a8469f4ff9dcbb795ec08591f29f63dd,12,,11.49
+864aab9e10a25c00ffca8c3317f9a18fd00fb330,12,This commit contains no changed file,12
+67ac5569f28ab2a797ce830e914f2fa53d1b82d9,12,This commit contains no changed file,12
+f10e8016b8095b2043f4db345f594d95fcaf94bd,12,This commit contains no changed file,12
+739417e785953bc9fdf8fd216eee2ef35f7d20e6,12,,11.30
+cf42ad5ee673b21020a588b05e5035720f10b73b,12,,11.30
+02093ed4d064ef8f10cd7a281fb083f56e4e526a,44.67,,44.31
+693fd6ed3245d60bdcd7e07677f8e7068ebea5db,12,This commit contains no changed file,12
+7fee2947adb261adb653557232017da0099d075b,12,,11.30
+619ad8a6d9548bf209dab737ebecb86cfd18a789,21.07,,20.03
+527f3383781735fcb53b6b82c149a60a9af87934,12,This commit contains no changed file,12
+bd178b007bf74d8b47bf2b498e4d2b36263c924a,12,This commit contains no changed file,12
+63778824dee2915d3f95eb51d6cea5f2599f9f1f,12,This commit contains no changed file,12
+0fae2279506641420203bb6ffcdec5a7eb991a3b,12,This commit contains no changed file,12
+7fb4917c62b47b9605c1e73f531a2d69d7c8c63b,12,This commit contains no changed file,12
+7c8572e04d1f32a88c07c51d14676fc54c9454d0,12,,11.19
+db20eb757577514c2728fcd2cf647c275d3861e0,12,,11.27
+1b1e8a5ba3019836f9f3d64e2df433ecf65e1f12,13.290000000000001,,11.86
+c2bd54f7b45241fc8bc09c5af5167365f1651ff6,14.3,The build files have been changed. Prediction may not be accurate.,142.48
+182807c3dc59d7dd18a9611cc26043a2eec0dfe2,32.76,,31.95
+f04cf077ddc62bf527247e5c815ffbc22768a85a,12,This commit contains no changed file,12
+9d1521090656fb6a6f688b53805b222b2cef7570,34.49000000000001,,34.19
+d1a7921ca05f538366a1d750278660308cb71c06,34.78,,34.97
+98af77a1b70011280bb7c2b20b329489562ac5c3,12,This commit contains no changed file,12
+c15a4dac1cea96b2d42303d42d2672d3e51a659a,12,This commit contains no changed file,12
+034179503572301a3091879b67dd555bc4786308,54.170000000000016,,55.23
+415163dbcc8d833d80244141051b1f181d8cd561,54.170000000000016,,53.98
+fee87449bf6fdab541638674dd5ee4a765d365aa,34.09,,33.50
+1f4ff9d891fdcdc6cedd6fb0996724b5b3b45a0a,34.53,,34.65
+5589c067491eb4d330d5b505cdcb4471de683d50,12,This commit contains no changed file,12
+0a04250476c71ab01e093b622244b463053080dd,12,This commit contains no changed file,12
+993a5ed362c00c11c36216586d33a569c168df8b,12,This commit contains no changed file,12
+4421cbad7fbcf66a4b85c19c5d0dcf5b543c2d3d,12,,11.15
+8efe833af74a795b018ca09491ca0aeaa527b32f,12,,11.40
+2cf6c71f33f45eb931b19653165019c8f17b2f83,61.74000000000001,,60.76
+f4551744eec8015b1c4ba72f8f06a7131bc97cf1,12,This commit contains no changed file,12
+089044f0d8041aad4cd95fc9ce3259e932aa5287,12,,11.24
+18772c2cf57308c1eb5371590b51edd7b6ed7c52,12,This commit contains no changed file,12
+26ee6f22c2513151cd740b144daf26ec29cae787,60.59000000000002,,62.05
+37114625938d98d91d6d3120e918d1e1040c24c2,53.68000000000001,,53.99
+a96566820d94329e09a896b9a5a74f825e15f3e7,12,This commit contains no changed file,12
+0dc32341c6b6d428a0670371474d003f7ae82bf7,12,This commit contains no changed file,12
+f6c3cc4a8978b943f4ddd1c103308d84d18cc1d6,1079.539999999999,,1084.98
+a7a1c1039c4f36ac1130d8313e6a109c459c44c2,12,This commit contains no changed file,12
+8d8b2bd43353f2548476609cd364800023a1ec34,66.40999999999998,,65.32
+9d7356ed189bd2075ae68eba024f96269d35df24,1079.149999999999,,1084.74
+3298ad05ec90267f6c8c829f8a8abc1e2b1fc6b3,67.16999999999999,,65.69
+c79ca6b3e9b8bdcba569a29a9e13540b059ab004,1079.539999999999,,1082.24
+fc4d903ced92cc3bb358c29ad3af9b262e318cbc,12,This commit contains no changed file,12
+3972c2cc59a575f420dde9ba9e3dd85e52bf34e6,42.15,,11.26
+aa456d97290c84f711b013723b07e96afca134a3,12,,11.20
+f2038df7b9b5d07ad0e1e71594cab1655510b302,12,This commit contains no changed file,12
+7e0b330b1e6bd5b8cb7ef5463d0cfe72baf7a12f,12,This commit contains no changed file,12
+8402cfbb17476565edf72dea7e3547778ac26442,12,The build files have been changed. Prediction may not be accurate.,11.40
+80ee339c8d3f7286c824b6312aa18e23c922f458,12,This commit contains no changed file,12
+fc96d38a9bcdd0e6545e04ac82235d1ff12e774a,66.40999999999998,,11.35
+e933b1c5eb6ca3789abc418c74d39b335ceac56d,12,This commit contains no changed file,12
+affc0d94b3017fd6d7976b3ebb2a086e53d8b34b,34.09,,34.06
+c59576ea49fb1943567ffeb4b9f8efd6be312bb7,12,,11.40
+4bd8735d67368c58ea41b9935fadfc9c975d15a4,1079.539999999999,The build files have been changed. Prediction may not be accurate.,1155.17
+1c2a6930bb789a099c0bace76084d5f43b06c267,142.89999999999992,,144.47
+ceb8664662ef576bd789f8cc55198d53e1cccb28,1079.539999999999,The build files have been changed. Prediction may not be accurate.,In file included from /home/ruiyinw/vtk/Common/DataModel/vtkAbstractCellLinks.cxx:15:0:
+340b75065dd8a91ab48da4cb11001931eb8b5a52,13.29,,In file included from /home/ruiyinw/vtk/Common/DataModel/vtkAbstractCellLinks.cxx:15:0:
+6198ab4adebebeb5fce9a68e4b5510137d119b8e,66.40999999999998,,In file included from /home/ruiyinw/vtk/Common/DataModel/vtkAbstractCellLinks.cxx:15:0:
+82a6c1dca10d194abf224413e8b5a35add7c4065,66.40999999999998,The build files have been changed. Prediction may not be accurate.,140.88
+4296f2f0c2b4e6b36b19881efa2115fbfd344a60,12,This commit contains no changed file,12
+7aabf4525b5146942c6635726acf5842f162e861,66.32999999999998,,63.91
+37893da86d1da6371336b72ba859e4c574d8fdac,40.38,,38.23
+3c16e52abd8fc27f85986242e08d9ddf00f95fdf,12,,11.30
+80e7073ca00ef31e4ea5c776b89223a928998ed2,12,The build files have been changed. Prediction may not be accurate.,11.14
+201984b91192a0d7bfe9f6ed6c40facbb695d7e7,37.44000000000001,,37.29
+b23ee9f2c7f818487310578aba24c152c5b9b334,12,,11.23
+b6bb2bb36b031bb0c62b76ef3854c608d94cd5cc,56.540000000000006,,56.64
+8ef03947ec2cda3d306d825908c63112e6dc9fbd,13.2,,12.66
+ed7b14db9c980f0bb4849d841f642237e77821b9,67.03,,65.00
+c3ad86f2e64c39e865fe86238459e07a23c7bed4,67.10999999999999,,65.99
+dc0c74b4ee38c2e5d48cbf473f50bd6c1e54675f,39.769999999999996,,40.16
+21de87cae1bc71fb7ac7c9c1707002e6db831df1,19.37,,19.26
+58276699bbbc8cd711551efbde1be061e5328206,42.56999999999999,,42.06
+89f898975456d58c7594867c8c423ab5aa2aaa2e,12,This commit contains no changed file,12
+3a8e4497f83de76b455159dc897f3157079b868a,945.9899999999991,,951.00
+7cd3bfd2559d948942f0e073afbcd1ed8faee69b,12,The build files have been changed. Prediction may not be accurate.,2742.93
+41be444fd9a8381bf20750b307c988f91a43e350,12,The build files have been changed. Prediction may not be accurate.,2806.58
+e41504974eb35cc400afedf5d908b877d68d6632,13.98,,13.32
+f059541f51a08d17797a0af6ef3878499fcb45c4,12,This commit contains no changed file,12
+8bd5a1ff2294ae8a480b6fd24536957ba8adddcd,49.73,,11.26
+804902b1f920c047058772294a892f088559bbcf,12,,11.27
+25f0495b1c833aef8e643e707990915ca7f5abfc,65.86999999999999,,65.13
+7b010075bb944db0444a8231b3c3173b2b9f4694,81.32999999999997,,82.30
+7d4bccc9fff2bb3ed3a6ef5330fb33cca57f157d,12,This commit contains no changed file,12
+d9b727cce3d3395c8ca14ef1b51bdb847debe56d,13.620000000000001,,12.92
+d72068682ed85e43cad7d2ac2d14cd1ece31f733,15.45,,14.78
+eae76a8f51b0ca391ef1d75a0c9df9fd0660bf8e,66.32999999999998,,11.45
+5234e0b8c1d93f96c12fcdaf5cb2b5a926fa3ce7,12,,11.89
+836fc076a0d544347e23b501c96f0ebdd08cf164,12,,12.01
+13c69c8f8caed881d330b5689d4f96a4339ffbe2,12,,11.48
+5b6e9c4972e55c0c5dc18d50f8b9c2e9c39212f9,12,,11.26
+2592e61768c5d8d7383a522bc7477925d8fe2633,12,This commit contains no changed file,12
+71aeca1c78787a7ef7f61f7b7d2dc4e588971e62,12,This commit contains no changed file,12
+be314272d8fa9efff43b3cceed960f99768169be,12,This commit contains no changed file,12
+b87beeed7430579317a55d23b6c8839ee6d79700,12,,11.48
+62fbfd2bf970a90c47cfe4d90cc985db78c967fb,66.32999999999998,,12.50
+c3b1c5282ae1f0e6d3542d14e04ffb398af291e0,12,This commit contains no changed file,12
+25f7d39c62c1a36be96845e606e1826af3d8c569,12,This commit contains no changed file,12
+da66b4bb483015ec9b8e49dd47ee04a2100f36cc,12,This commit contains no changed file,12
+8b95271baadd4d99c34add4c9d2fffb4314b4cb5,13.620000000000001,,12.49
+7f6d94c7e13112fa8fd4cba469cc0eb82ba51137,12,This commit contains no changed file,12
+3359ff5d5d90f6559d666e3d19028de30498f4de,12,This commit contains no changed file,12
+e14cc5521142aa355e7b57d43488b0049f323391,12,,11.26
+9afe4d1eced97fea75bcb75205c5d2a27b579db3,12,,10.63
+b6ffc86a18eb69ea93ca6eec948568513dab1f44,12,,11.21
+c41a4d27b2f41b61a0468ddc93da6ff5405b03f4,12,This commit contains no changed file,12
+d7048dd4355f21688da37545cf102dbafb189e76,12,This commit contains no changed file,12
+d306075a63cc197104b76d95b3a25a98e8d194bb,12,This commit contains no changed file,12
+8455c83a15d5622edcdf90e1ff5d237661b08e65,12,,12.35
+0712302ca1504a15b7abd7e2c9ac0b5d3409b2a1,12,This commit contains no changed file,12
+68c3cc53e47c30e7ef8a74fa2b40ced0f234834c,12,,11.32
+ada8bf282b9577fd4335e8a707c42e4230dfa3d6,12,This commit contains no changed file,12
+0f6042175a7e4b72900382c05e9f137d29fab30b,12,The build files have been changed. Prediction may not be accurate.,144.07
+1fa6efb717d51e4eb5ecf6267ca0ea5f30fe5803,12,This commit contains no changed file,12
+d4cbce8833c7da6a7cf56ed243a11a48c3cbdae7,12,,11.17
+d98e7871b445cd23b9c4f3fde3057ccd68a112aa,101.17999999999998,,101.94
+1c54b47d1de7bb33359bb1cf24a7fe8826e927ca,12,This commit contains no changed file,12
+77f06947dc15871fa5ea0b41ef3fb1a32428ce0b,12,This commit contains no changed file,12
+36c22844bd782633d2bca1560f6946b82c6b9203,12,This commit contains no changed file,12
+fef4704db62f8b9b5dfda17162492efa9ff26f2b,34.78,,34.51
+8a84f7c348ca7761e568dfcac8f0f2b87cf86f5f,12,This commit contains no changed file,12
+ef8ea7482fcb9765901abe35bda78789e4a0f6db,85.26999999999995,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+7ad30945db09f00fe196a4358f7333f822e680d3,12,This commit contains no changed file,12
+839254120fe2fbb069c63094fb12976d1db9a664,12,The build files have been changed. Prediction may not be accurate.,11.72
+8eb50dd23fd762d42fe1a6785bbaa704f2ed76c3,12,,11.84
+45583ff5c93b781e90ad8a04d0444dcd7e355bbb,12,This commit contains no changed file,12
+129c26b7dafb3166ab5e30c98580dc365387b1c4,12,This commit contains no changed file,12
+bc6c71ea79dc7bd7523b81aa1d1b5e6a98d57daf,30.240000000000002,The build files have been changed. Prediction may not be accurate.,152.79
+a2320e89301447cde3465f141e6c68cc7cdad30d,12.37,,11.30
+d8ca545984e0b7989797ade46932835f076fc6c3,13.63,,12.79
+1708f317aa78fcc8aed9c0b65a90609208437110,12,This commit contains no changed file,12
+244db4789a51b5d3639ad1874cccc367514d8d4d,122.49,,125.90
+bac2c36f3651e8af3defd9909a99952f93809f01,12,This commit contains no changed file,12
+8dfce4efed3b11e2eb566bb641a6a0d49f3fa61f,12,This commit contains no changed file,12
+d5672fdcfb88f5efa552c449cfcb51fd963cf92e,12,This commit contains no changed file,12
+7ac36b436a1f7d7c94e181643af4ac7173b14827,14.0,,11.33
+31e5974a941aec95001f03f8151f8790268abcf9,12,,11.48
+d34f06671a03a357f44e02015ca1751d409d0163,85.04999999999997,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+d11a0a3a4dd25d89af7df1e751eddcdbffe424ed,12,This commit contains no changed file,12
+1dad2da9cd4db7153db2f1c26ac8b103ce04901b,13.620000000000001,,make: *** No targets specified and no makefile found.  Stop.
+96bdfb805affb25e63cce1b7dba74200c911d9b0,585.0100000000001,,make: *** No targets specified and no makefile found.  Stop.
+38b636b33ee64a121a640b705b58d8f5228fca25,36.81,,make: *** No targets specified and no makefile found.  Stop.
+0f6411d10cfdf831a391284780463a2d6edeee19,12,This commit contains no changed file,12
+eb9e9c2bfe17398bd08e25f039bc7bf73d6e9f9e,12,This commit contains no changed file,12
+5bb738d361c49b715966fbcfa9788a7bb73f6f52,12,This commit contains no changed file,12
+ca0ac61b33247f61d83962b7586d2030e05775ed,585.0100000000001,,make: *** No targets specified and no makefile found.  Stop.
+b64e6f2b5de945a97054d9fdaf95f28364b0c8a7,12,This commit contains no changed file,12
+8b866f45c7cda5209cacb77609883cf2e5a9592e,72.13,,make: *** No targets specified and no makefile found.  Stop.
+3fdd0bc5b4a5e9d9c5452421901f40c90b1784ab,12,This commit contains no changed file,12
+4be38a3fb3a1a6f62e266130c7a2d5f679e2e567,586.3700000000001,The build files have been changed. Prediction may not be accurate.,In file included from /home/ruiyinw/vtk/build_dir/Rendering/OpenGL2/vtkRenderingOpenGL2ObjectFactory.cxx:33:0:
+ffd92b49ef5c0c1e3a5a64b3d469f60fa85cbded,12,This commit contains no changed file,12
+66288d8fc242b225b1dcad888626d12d620f24c4,12,This commit contains no changed file,12
+12a446b4652af23d1ac87c50a21c2e121438d2d5,12,This commit contains no changed file,12
+978a634976ee69cf6f88c8b68b9d19ca137211e0,12,The build files have been changed. Prediction may not be accurate.,148.61
+a8a45720d77a57451e88a106e2ca6d8a83cefa77,33.800000000000004,,34.14
+11a555195b0905233a6fff858597c6f3564d51e3,12,,11.08
+3e9bb7e7feed7b785d59c72984c0cd28200c920f,12,This commit contains no changed file,12
+ea840831e8cee2c8a902aec4cf041c305e36bc82,12,This commit contains no changed file,12
+33e9fbd1f499a1bd0ba1f1d8c3f41270fc1b35f0,14.02,,13.18
+3924b0ef5b3bf95a5c6f8f68c919ea654460db30,12,This commit contains no changed file,12
+a30c943b75cbb02346e006e9c960427743a39cc3,12,This commit contains no changed file,12
+82bc55f78237ded92454cb2457d0cfcd11a40e8a,12,This commit contains no changed file,12
+fc3537673c92fe781cb9ab0242ee95cba2f87b0e,55.589999999999996,The build files have been changed. Prediction may not be accurate.,In file included from /home/ruiyinw/vtk/metaTypes.h:12:0,
+5970e58c49cbc6b6aff211e2d234ed96d560951e,12,,In file included from /home/ruiyinw/vtk/metaTypes.h:12:0,
+a4fa4480994822c957d624762c55f29a41634f21,12,,In file included from /home/ruiyinw/vtk/metaTypes.h:12:0,
+127573c9be953f61b8ddab4d742791d9756b36e0,12,,In file included from /home/ruiyinw/vtk/metaTypes.h:12:0,
+c891745b80ed2f1fb5f2671eff3c04ccac9ffa22,12,This commit contains no changed file,12
+bc40e5c949ef6bac7c016cffe78a9b6af44259f8,12,This commit contains no changed file,12
+7695ff94d4baa68b8675034682662debac85c5bd,13.620000000000001,,In file included from /home/ruiyinw/vtk/metaTypes.h:12:0,
+9623725ef2985f3eb1fe9f596b9019783476febb,12,This commit contains no changed file,12
+7c21867ec18adf2d3bf1b48b86382b136ac8b7d7,52.71,,In file included from /home/ruiyinw/vtk/metaTypes.h:12:0,
+56fffa2f126544ab554e20e076a263743b4c1bf8,12,,In file included from /home/ruiyinw/vtk/metaTypes.h:12:0,
+7d76412cbc6858dc7782c82c5d518ad01bff15e9,12,The build files have been changed. Prediction may not be accurate.,140.09
+89b39a128037939b97bb812f74d36ad8c38bc551,41.3,,40.87
+d84d87f017e68f0174163df3f23fb18994fda4ff,66.32999999999998,,11.12
+98790451fe26b8a7c94509238b84b9b2e942f8b5,710.9799999999998,,709.98
+1de4a32ffe9db3b385e2b5bef0096710e91d340d,596.1600000000001,,568.57
+590bac482dc9a39a215b5919170979c450e603b2,173.95999999999998,The build files have been changed. Prediction may not be accurate.,275.17
+85ce2425913ba839fc5a463a15f4d006c524ab20,33.800000000000004,,33.00
+0d817ed4f19fe03101ebc0d86210e8e3e90888d1,34.18000000000001,,33.72
+64e09f70b5de080c636d52ecbe2ecf4c3b54e582,12,This commit contains no changed file,12
+9bce1524d92c53d5a579fd90d610c57567361e4f,12,,11.19
+c4c090317029e39a42c57122aa4394f92f12d431,12,This commit contains no changed file,12
+54736d8beecacd8a3ae43724d61cb2a2ed66ffae,12,,11.33
+e31dea42acfae2301176bb1c265954158625c94d,12,,11.39
+5e14bb70dc777b454b7e1611d04de0c7220f180e,12,This commit contains no changed file,12
+762f0fd21ef0e560aa525397014fc2f3e54e1c21,12,The build files have been changed. Prediction may not be accurate.,11.45
+70bd13767b215d9ad3a1644a45bd8bfb69d607ad,12,This commit contains no changed file,12
+85e9c201323d26478eb77c7fa1b3029b6390898e,12,This commit contains no changed file,12
+8d74916b5ccc84654e5c0d9a7f4d4462aa852594,306.6900000000002,,302.32
+293b9d660019284177e48bd2ebbc2557aa4f5929,66.03,,66.39
+f3cb6c981e792f92746f748b119a16c7de3fd178,12,,11.35
+0460ddbc70be4ba93229b92b00712cd2c4d64716,50.65,,49.19
+bc856b5712e149393883edcd475f58f6ae730b34,50.65,,51.03
+82daf959466b3a2ca231bc268e833e217723b7ec,50.65,,48.22
+5925bea4ab03f38a23213fa3a606b64a7dbd9ba9,12,This commit contains no changed file,12
+8d6c2ce642b293552c96471127a5973cc80d6726,12,,11.31
+5adacca82d9af7d56d8d1e65b37fbba507185836,12,This commit contains no changed file,12
+b02cbff0f11c5638899d2ce2b5965f42bceafead,12,This commit contains no changed file,12
+096a56d7419bcc0b0d731de5f07e99f9599f1bc9,33.800000000000004,,33.05
+7593e1fa634ad03008acac69123b299daf275284,596.1600000000001,,568.76
+8d07c5c4a210fd30360aa4a23c9744930be981d4,53.70000000000001,,54.98
+1dfbdf2b4c8c3caf879bbe11f2cb2bf58337063f,83.36999999999996,The build files have been changed. Prediction may not be accurate.,186.08
+617819ae35c4ff7635a7dbb31bb253c822ef3e6f,12,This commit contains no changed file,12
+040252624baf8b7af09534c2d6b6450a0492122d,596.1600000000001,,568.35
+1820c4a784d673ff50cac985f7aee5ff1f18790a,12,,11.24
+5c9af256c26ecd4f85989697740e0c78061b826a,1685.4799999999998,,1668.12
+870e4d014c6e43f6f938246145a6f468c1ca936d,12,This commit contains no changed file,12
+9b2c859962f8a645c324f2aa6aeca4c8a9e90db1,12,,11.13
+01afeb294ee44cb5f002012ca4c9b4453d2c36a2,12,,11.16
+8fca3ff98e00a583d33a23a0cc89173d1677d8d8,54.09000000000001,,55.64
+1a7ef12ba9b369fba236ffc5ba5d0f8f91ea3cba,596.1600000000001,,568.20
+ebe9ef7ab67704fa5d30f6a68fc1b1f80bd47635,12,This commit contains no changed file,12
+acbfe390209b04b0653ddcc83e74f601e654b193,12,,11.17
+cf28f12a14dec6047d5852912fcce3df39bae04e,12,,11.22
+f69042b6c1903a567dd315b923fffb20952224d3,12,,11.18
+f5a2440c5c44e101fc5e91287e1f682f11d24995,12,This commit contains no changed file,12
+e6b8eb167b8bdeeeb56aab05c6f27e59bda27630,54.31000000000001,,51.99
+627e2cddeb7a6a4915c35f837bce8913b22eb613,12,This commit contains no changed file,12
+e9a6c9f7366f1019fc90f7e5191424feb8cf9752,39.150000000000006,,37.37
+f93151a5d385d548b8ff8dd0fc7cb6ee4bd19ee9,12,,11.11
+ca7208bd7016d989f9ae28fea67a8c8bafd98ff7,12,This commit contains no changed file,12
+e99ee9f41f5073f0103ca9f6f7f8ac7a7336ea9c,12,,11.43
+fc90308fa1a4c99b09a9ff1d351303b6725e52d8,12,This commit contains no changed file,12
+78b0414ea36b628c99f77f59c0ab6fdd573b4e13,52.71,,52.95
+4398c9ca768bf77c9c82f59c94cee7d298a436e7,306.6900000000002,,302.07
+a06b06a19f49330c34a83ce4f9d0585c420edb03,12,This commit contains no changed file,12
+f2329875659efb67dcebd381c1e28c0898e1c19f,12,The build files have been changed. Prediction may not be accurate.,139.30
+3111a22c528a6a09d72ebe586e69aa493606f813,51.900000000000006,,50.45
+4a1c5916dc787757e2423be7ef057c17cf9437a5,52.1,,49.34
+aae7c63cf09c42007b85ea5c5433ff8eaa7156e5,12,,11.27
+13f8a0d4f7a0753aec5d4b6e9d26db647c10786d,12,The build files have been changed. Prediction may not be accurate.,11.22
+c50a35c04afc9573a2d57d8d75966f673f89d049,12,This commit contains no changed file,12
+8628eba71dcd86adfd2598eb41a47951c9d8a595,34.89,,33.84
+d12893e54a65223bc99b3d4d61faf8b7793437aa,12,This commit contains no changed file,12
+2cc37fe5b874a0f25d8fe19e95c8558157c2b118,12,This commit contains no changed file,12
+fc06fd9da38d8a3ec5f39d190ab6478e1917865b,12,The build files have been changed. Prediction may not be accurate.,152.13
+ed21dd066eefca9f8989beab560b63adb91e9f82,12,This commit contains no changed file,12
+6e0a3d635d3fd1f29faaddd20662d2570dc794b7,12,,11.90
+f488d8fd9665fed5e91c0e211d149fa1be8ed5b0,12,This commit contains no changed file,12
+f3f68fdbe67acd1a18ac2f93085d43069c3b569f,18.56,,11.68
+78222ad53109952cf237ae02bd584e396942cd77,12,,11.08
+6ac07d843b6666c778545ea25709b3c5e0c8113e,18.42,,16.55
+6a19c4a2847849bdc2b8813d24c8412f2f783957,18.42,,16.76
+3ef12b7a051f506e04a1af6c15284ce087b737a3,18.42,,16.22
+fdf0d6ab77e1b04c6c57163cd3fa53e1fd273fc6,18.42,,16.33
+76d10d9671f4e1aaa4932a326491d34a40c324d5,18.42,,16.02
+00270ce6707afda813589084b92ec669d99f2c88,18.42,,16.16
+769e41a09c32561f30b71f26aaffb2c097102f0b,18.42,,16.09
+d04cc82c37245b687e9951f1749573b6871c046c,18.42,,16.07
+91973c1b14626256dd2448a37bdef0d46a0c1eea,18.42,,17.26
+46726e6b2fa0885a10afb0d4bd90c34b339b9ceb,18.42,,16.97
+1b6901af87fb9e545ad91e929c2a1114bf711996,18.42,,17.24
+190b6b3e4e390231fe06fb1e862ada8ccd992dcc,18.42,,16.72
+0c3195e0d407acb79999bedd007616ead0337686,18.42,,16.42
+25700e2677a71e91da991e248b05a91ec8de92e0,18.42,,16.36
+e7166b11fb92f7269f2e31687cc0b69b3cb2c2d3,18.42,,16.01
+adb5a06fc59adcad6e341c0a3d42cbde3e6ad37c,18.42,,16.12
+f363078eb730993db5e8d40ccabbbf7ec75408e6,18.42,,15.47
+975bc45667cd69a62fa22a13829b5ca93bf16b18,18.42,,16.73
+40495fca55fa572ba3aa80e24310f06df40884d1,53.80000000000001,,57.41
+82a535d9f18602189cebc6a52e81e563c6e0a7a9,68.49,,72.00
+2b6e40ae71726b207578b8ed08890619090531d7,54.38,,59.09
+e8a8b3fb9b1bed17ed675b8af038f5eed5b8d589,12,,11.11
+9c35b4ad1ad919337c1aef3d060fa96e6dca6d4f,12,This commit contains no changed file,12
+7a93aba2823094147f06d1bec73791f417166dff,12,This commit contains no changed file,12
+3a70a230295169c7048cce8f7cbf01e028e50b98,12,,11.42
+67482d9808a9da21087f57f721ce9e76b8cd9f6a,12,,12.00
+21121695698c10f71e48333a41e5ad01f81d6103,12,This commit contains no changed file,12
+8c9bd6c4e0836ad96d84256ff84399b27703c6b4,12,This commit contains no changed file,12
+60d3e1bc335311b4f0a85d6b93df21abbddcab9d,72.94,,76.63
+f3228a7f89aff701fa878350d1845abd19f6a3b9,12,,11.72
+1e5594fa1c60c171c4d38b81eea309406929c593,12,,12.09
+2a72aea73d470c6a2c7d1b62be2aec3a48387626,12,This commit contains no changed file,12
+3214c802196903205e0ac8a01c042b04870cf6ea,12,This commit contains no changed file,12
+8de76a3ab74f093ac504bde9f93333f02be54d23,12,This commit contains no changed file,12
+0739405364b77ed54f134f179fc8f1cf05141789,55.67000000000001,,60.43
+bfcd9131a43f1b5853886788f7fcf202f4fd0ce1,12,,11.79
+e9ddeae524567f4edf9bfc40bdbea27c10074f03,53.80000000000001,,59.55
+1eca762791684a5c4e8ae8f9809c9734bafaa94c,12,This commit contains no changed file,12
+73673c2795b1d04fb1b4e9fd86c56c76ff2eca81,12,This commit contains no changed file,12
+7b4bc1f3974a3ba19c693972740d599bbd39a5f8,12,This commit contains no changed file,12
+d22bed551f018f7c26cf8838ede0d6c8c4a2d138,45.18000000000001,,49.46
+472a65d68d1d162c02a8cf3f399ddb0eeb1e329d,12,,12.64
+3fbae751cbbe059c6e3351c6442037c534eda26f,24.009999999999998,,25.74
+f93015646d7c323c27aab9525dfab414f444b839,12,,12.36
+d7c13778b31a127b6efc5f860ffc002b8e332b55,12,,10.95
+b2457cc23df8d2104519a96ba8563cdc32dbe9bb,12,,11.34
+8dcbc03517ac3523133630056ad18158e87f8724,12,,11.09
+50666ee14ba13e0e40bf03cc28996612159013a7,12.84,,12.21
+d283c1dbe5b8904b88d703fb6e1df7c55cb804aa,12,,11.75
+e5566b9b01fdb1391171de7144e662b4b94aacb1,12,,11.52
+f13d7e025982d5d4ce665ca2e948e3a03dfe9982,12,The build files have been changed. Prediction may not be accurate.,11.82
+fc659cd58ab13cf8005a3368734843ae62b88589,12,,11.73
+08649ec2b971d95e589c7fe5c137231c30b27c34,12,,11.60
+b079d08f0e58ab8dd6b7ef978153fcb6b900993d,13.19,,12.68
+3161f65e5c28fccbba3f2cef33649b0b14e059c1,19.7,,19.32
+5aa17e9f4d58d519422a540184a030961f7500a3,65.89999999999999,,65.15
+8cf0a426e2d50a2d53523b92f59fe2be9acc9cf5,65.75999999999999,,67.73
+eab49b05b4d2e62804e7d275ce49731a15e79efb,65.8,,67.88
+c0a6fe75fcb185e0a2db0577a662337f5329a042,105.57999999999998,,104.40
+885dd1c1ac7938a6916517fc2c7f797ab9118453,15.98,,16.00
+ea618ad01c53d62ab43e2026749d778434534290,12,The build files have been changed. Prediction may not be accurate.,141.06
+0f5f0d926753e0450b0f8b51636f55b7b5faa770,12,This commit contains no changed file,12
+3cbb252d41a8f613b9b23d8a8a7c1d787e8b7d6b,45.18000000000001,,43.91
+3a011950bbabe18aad58b8cf99459e71e64117eb,12,This commit contains no changed file,12
+e6bdf65cb23cf56b4c9e8c6b3b343753eae6856b,17.59,,17.18
+7e1129c7d876837737f24b06aa8fa46dd88301ef,22.689999999999998,,22.12
+9beced208a52573322da9a575143fd2f092f6eca,12,This commit contains no changed file,12
+50bd580f59ea3655412bfb8aefa439c1ad510dbc,12,This commit contains no changed file,12
+2ac05e20abb914ab7e7f7a01769c172c8f43b0a6,52.46,The build files have been changed. Prediction may not be accurate.,53.84
+b2233c7506b7ec9c0658ebac9b2a0d24d7f7f8d8,55.67000000000001,The build files have been changed. Prediction may not be accurate.,159.18
+4f79cb1a17219214b2c5c01cffb7696809e356d3,12,This commit contains no changed file,12
+50f51ec61483ee8ab615802ac2ba101d3dd6888a,2575.640000000003,The build files have been changed. Prediction may not be accurate.,2743.74
+4d0f3bdbe73d2253de29e6091be3875a8315ae6b,12,,11.17
+4cace97614291d26ecadbf4b78ea4090d9136105,12,This commit contains no changed file,12
+512fba51a0ff25a69b3f5f2d3273903e97d30728,12,This commit contains no changed file,12
+fef59c20fc35d8f301515418f3204efe5d32c063,12,The build files have been changed. Prediction may not be accurate.,11.30
+952168d4eb4021ae0fd5961bf91d0ed298fe5050,12,The build files have been changed. Prediction may not be accurate.,145.57
+a51432ed4467f083104278a6d817bd368fcd8cc5,1726.3699999999992,The build files have been changed. Prediction may not be accurate.,1769.35
+b55c10e0c898aa2f632ea9014f4b8a9246d07d4e,1714.2199999999993,The build files have been changed. Prediction may not be accurate.,1758.28
+953d37d8cdfd768debd606bb0af15f6cc1a798d2,12,The build files have been changed. Prediction may not be accurate.,140.13
+d6cc61fb77423ff3fe6de830efd158c7d0afc969,36.760000000000005,The build files have been changed. Prediction may not be accurate.,39.24
+0e6916abff043c1bba6029cc9bd8df28d7118bb3,12,This commit contains no changed file,12
+26c23583b7bbfeee2349576c65fa32d5991d9b4a,34.36000000000001,,35.42
+fcd264fcc4a63c557f9b0486e9dede880bb1f0f6,28.09,The build files have been changed. Prediction may not be accurate.,142.46
+3b3fa521cc4c709cc8ed219a81d0202b3d8f95c9,2573.9500000000035,The build files have been changed. Prediction may not be accurate.,2590.00
+2a23c1d60e1f982ef9dabdaf1f40dbfc199edada,12,This commit contains no changed file,12
+3dae028b1ceaf016ed33eb3cba1a008719c10ac3,12,,11.64
+8f5502b417f5f87ee0cb2da54bb3d7b4c87fd9ce,12,This commit contains no changed file,12
+a425dabc5cb33f9a0b30fa9d84caeefddb8ee3f9,12,This commit contains no changed file,12
+6d9b42b005304a67d354a32b0067cebd7088f5dc,12,This commit contains no changed file,12
+ae4590b7e67b732bd60c06124e38cd08bceab7f3,12,This commit contains no changed file,12
+bc71b5e2c9ae704cac72f435b9dc8173da7aaf56,12,This commit contains no changed file,12
+fbeff60f832c36e5a5293257bf632c2882276361,12,This commit contains no changed file,12
+91dd5d759b526943dcd48549aac7c4b976de688c,12,This commit contains no changed file,12
+6feda4d4a6bbbde3e0147fd3f19883b7a41a5872,12,This commit contains no changed file,12
+b7404ef144efab7fd15cea1f9716e5c62a5d8199,33.32,,11.84
+a12bc8c80a08b2f1c95aab465b671995d6e69187,585.0100000000001,,560.50
+be020e37b806add8c16b654428f706bfbfde12d5,585.4100000000001,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+a2b9cfefdad3797cc8a7f899f935eadbb52c0aa4,75.48999999999998,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+b4239d35f6260c53e4a98a5197516b9b713ca2ed,12,The build files have been changed. Prediction may not be accurate.,139.97
+15886dfb587ecd15b43ddd54ca8cfc0fe71f95cd,12,The build files have been changed. Prediction may not be accurate.,12.03
+48424ff6da13d00215a7a54d5e4a5fa78f58daad,12,This commit contains no changed file,12
+1cf69127731d51da31b3511e58400ccd454226ac,12,The build files have been changed. Prediction may not be accurate.,12.17
+a2388b8186f5889f4b4585f559b0ea1927747c5c,12,This commit contains no changed file,12
+5cd1803b8b869528e0f98bff1b3d0c1af78eca09,12,This commit contains no changed file,12
+4a6ace8249ee5a61298a22b4b0b317a42b6f3b4e,13.55,,12.03
+b457301c09e250b7e0232cebc9c122e833e611d9,124.83,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+19313492b9bf2f15f2dc8cfffbb87233aa9e10f1,12,This commit contains no changed file,12
+8d755efed5958a7f9b1fbbccb8e14aa1dbb287a7,17.59,,make: *** No targets specified and no makefile found.  Stop.
+fb6c2ee9d728c4395c43757e1bca38f517ac36d2,17.59,,make: *** No targets specified and no makefile found.  Stop.
+49f5d4cd9eaf6eff5a35a5e41551f1910148f78e,21.669999999999998,The build files have been changed. Prediction may not be accurate.,21.07
+62fa198aacee196f27cf528f91dc98a26c7e15d3,12,This commit contains no changed file,12
+d3e302aa35ccdb996ea337ae0907ba2f91e748de,12,,11.53
+7fca806ed3611d21541d58a10ce3cb86e22e1c9f,14.44,,13.45
+282a843a411a5ac739f3fe72eba847b503d89a4e,14.44,,13.42
+c01e3fe6d895d8dabc8719d8daa7331793e85d87,12.99,,11.55
+b24a9c6feeacaae899ef36cc0764dcb0b4287d2c,12,This commit contains no changed file,12
+44735bbc81a0d8ab0fd5181e20eee9cd987bec57,12,The build files have been changed. Prediction may not be accurate.,138.40
+e8fc0812109f96c332f7efb211d207eb1c105d81,17.59,,17.49
+68e6684d75341f1483fe2a76e789564ef1966b4a,12,This commit contains no changed file,12
+7c17a39e4f93bb8094ad6d8230d33eed7cd730a0,964.7799999999993,,926.74
+2f22500ce3154e2f8d4969bebea827232ed37027,12,This commit contains no changed file,12
+b8c9e6cf76d7f716a92561cad319a4f8688c7a65,12,This commit contains no changed file,12
+869c81d5ebf334bffe6989c303a5f20763141b6e,12,This commit contains no changed file,12
+de5f668513b32400040815c873cd7d3fb4db1c4d,12,This commit contains no changed file,12
+aac61958778fcf58fe22b23bcff4ae9a32f37e74,12,The build files have been changed. Prediction may not be accurate.,139.93
+8509becfa75b2046821ed63794f569b224552514,17.17,,15.42
+3b208dd6ecb09dcd5c7a23e6f5e5b99c45e036d8,69.09,,69.01
+7ef0f12ebe0b33f33afe090b89d63828fa21b18f,12,This commit contains no changed file,12
+aac61958778fcf58fe22b23bcff4ae9a32f37e74,12,The build files have been changed. Prediction may not be accurate.,139.39
+7ef0f12ebe0b33f33afe090b89d63828fa21b18f,12,This commit contains no changed file,12
+6e7c5f243ea3bfaa4996cc39f49a64e560e788d0,12,This commit contains no changed file,12
+a4f9d8eb6b82733d32fe13cd27e6771167babcad,39.0,,39.29
+916e4bc6505eb03dbe45ca7d6cbdd85a2b85f49d,12,This commit contains no changed file,12
+247e3e88dcccb9f8d2ccc2ef640e4b18c70386ff,12,This commit contains no changed file,12
+a465073da00bc12013402cc4b36fdd4b34738044,12,This commit contains no changed file,12
+6e8750d642a8702c2e512ca18b0c184e12b39de5,922.8000000000006,The build files have been changed. Prediction may not be accurate.,1020.17
+06ad5decd6ce0242588308e93d0df841c72cea65,12,This commit contains no changed file,12
+d59a9781bfdddcb4ff6b3e33b55ddc21352fd2d3,12,,11.80
+0e74097d1b8f7a0b5bec41bb728744e2af1ce38f,33.02,,33.06
+3e493e251f1d2c0c6eb37633e5440cb731c069c6,39.0,,38.61
+c422bbf6ffd0c9bb03c137f3aac10450219edb8b,12,This commit contains no changed file,12
+246216e56d18471c914826dfdc9b0f9bf940d7eb,39.0,,38.12
+af5d537c7a158417ae2a8cea64b5cc8ec3866bf0,14.52,,14.52
+a992a6745e7fdd30398ced1720850859a44efe54,12,This commit contains no changed file,12
+ca6ca7fb672dc3e59b192ad4dbb238436bb12c40,12,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+3221bed989ef85448508332c954a0ac9306185ce,12,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+0907493659afef52e1896a4b417a9b5b3aa74680,32.6,,make: *** No targets specified and no makefile found.  Stop.
+f983396cb89ae0a8d21e6edc801f65525e5bc409,41.2,,make: *** No targets specified and no makefile found.  Stop.
+d6b9c46aa0185943dd6eed19f596344a0b584b09,12,This commit contains no changed file,12
+51dc7b71ee39356a2aa62eed64124dc4a6030814,14.52,,make: *** No targets specified and no makefile found.  Stop.
+0fb557cb0bfcb1089637b7661134d721a1b2d622,12,This commit contains no changed file,12
+846f27a9b077719804a8db8adb81bddbd83aace8,12,This commit contains no changed file,12
+50d28c8910b94ee6427643998362addaa196d3d9,12,This commit contains no changed file,12
+7075581058c223f7d69b6dd3aac5319c46573c23,12,This commit contains no changed file,12
+33fd97ac54c477c8abbe646a74b3b40c29899a37,12,The build files have been changed. Prediction may not be accurate.,11.91
+3fe2d258308e946efb94568e8e6397e6fc54ba5f,63.38999999999999,,65.63
+df44c5c95698dee3806d93f2a5a134eb17712c7e,12,This commit contains no changed file,12
+ecb720a690626af8a2152dea4a69ad1892534e33,12,This commit contains no changed file,12
+dd41d036ae7e80058d807137883e1354dbf1071c,12,,12.07
+9e49de0debcebe3a3458b783c4661b89364a0130,12,This commit contains no changed file,12
+e872869937a4872783686fde44a90c8bbb449b7e,12,The build files have been changed. Prediction may not be accurate.,12.32
+1366d52126fcba65f9ecf73844f9e342c52d4e9c,12,This commit contains no changed file,12
+6fca3750bac4e1faac212ca5e21ebcb7e7981450,17.740000000000002,,17.40
+87e050951182f9dc3710e001e047a0a65d1280d3,12,This commit contains no changed file,12
+aee1663d973d83fd97e4a00ccbbb9d103ee86ff7,12,The build files have been changed. Prediction may not be accurate.,137.75
+8903da6137c1b55424aeb334f9f23225e1ba2bc2,12,This commit contains no changed file,12
+4d17b25c7f3c2687654521f47b61c315634e0837,12,This commit contains no changed file,12
+c947613907ab289eac4fae0ed463d44aeeb8f688,12,The build files have been changed. Prediction may not be accurate.,11.71
+62495cb2f0c22321679410a564a4147aa369a076,12,The build files have been changed. Prediction may not be accurate.,146.38
+9cab3da307a5b6d9bfbc614a095d3137e4408b22,12,This commit contains no changed file,12
+ce4b6f1159bf2fb686b1bc72256519d677a547fb,26.42,,26.98
+0225aeea4a0e3af8053457b6a43aa62f17f08f8c,12,This commit contains no changed file,12
+3984c835cffd528d16596755a0eec35e34c0e04b,12,This commit contains no changed file,12
+3ee49eb640cefb70fa92c49d09ee8a0d2c9ccc6e,12,The build files have been changed. Prediction may not be accurate.,11.72
+d9b606a7ec4c1748ddecebbc00942303c091bdd0,12,This commit contains no changed file,12
+6e2348e9bd497876278bc92bc51a25a3e2cb77e4,12,This commit contains no changed file,12
+9ff6b70a0d931e1acd7122b1ec2826dd75b94134,13.2,,13.07
+4e66945d9f2548528bf3772f942f083826913285,12,This commit contains no changed file,12
+07b2c76111cf60d557fa3c94ae8f2ed9695b9ece,31.020000000000003,,30.31
+b0ca2c214cd47f4d16283a7a0369280baf39cee8,12,This commit contains no changed file,12
+579260102fc72a19d4cb2f38989f9dc511d8eeb2,12,This commit contains no changed file,12
+2f32c79a08632a1fba07992c07bc274c803a91df,12,This commit contains no changed file,12
+ac03594d61797af2ea6ad6eec74bd0617be787c6,12,This commit contains no changed file,12
+26e3210649c1e4692c780b912da1a14cfb9bd5fd,12,This commit contains no changed file,12
+c90fb5edd2c8cad7947355c45ea0f3fd8bc72ff2,12,This commit contains no changed file,12
+06a6bb1ad530a2b3176ec4ffde171972096ea087,12,,11.19
+fe20b1e9e7aa05f0fc66920fd7c915448c51b2ae,12,The build files have been changed. Prediction may not be accurate.,140.38
+3244cf935f3c141a16348a9f5628fc012770bf80,12,This commit contains no changed file,12
+e4ff7f81b3f93410c2891fa87c784399d1054821,17.57,,18.02
+27e78f90fd0c3dea03752e950d1c421a9e5d3537,45.209999999999994,,46.11
+564267ab039d435044905386f44edd8b9435525d,12,The build files have been changed. Prediction may not be accurate.,11.89
+aeb47cf0dd7ffacf595058d2dcd526f39e7905e9,76.78,The build files have been changed. Prediction may not be accurate.,202.68
+a09ee93acd98a8e51a1989c85071ffd0ba4f8ab1,12,This commit contains no changed file,12
+54efe9498b4545dd3e78a9da6f3a4abc5f8d9eb4,12,This commit contains no changed file,12
+703d5ea392aba751e609b1d05f19b7b5b22923e4,12,This commit contains no changed file,12
+506f7e2500ed1236907846bdf764ebc32a317cb7,17.57,,17.96
+72bd2680a54d9c10b6e89e19725470556b640f98,17.57,,17.41
+98abc34be89f0f4b8aae35b4bd35ebf42e13b5b9,12.84,,11.41
+01e000eb380688c0e129ec6b287084a436f62ebe,16.46,,16.29
+58f73914eb6fbf0572db3b259e8fc95db7614739,38.040000000000006,The build files have been changed. Prediction may not be accurate.,146.81
+a238d32f38b50ca00e0212d444908540a8564bf0,12,This commit contains no changed file,12
+fb6f4f0f09c7297dcb42142671a45a4aa6708e1d,12,This commit contains no changed file,12
+7f7d25761ea8abccde6d68bac2f3367e780bcd40,17.57,,18.38
+af43de520efbda06221b5cc75310ca4b9785902b,12,This commit contains no changed file,12
+64ed4f9c71b0b0972b0c9bcf1ba72ecbf822de30,12,,11.96
+3bd08317f4614093ec9d15a17467d0f0153bdcfe,12,,12.10
+9ac4fadd36783c08e62227184cff40fc3e26cdc2,63.73999999999998,,67.13
+32dc2716e590f6fb4788db354bc5c4bcfde3e17d,21.190000000000005,,21.25
+aa24abb9cd9ab4804747b21eb19f90f0f4bcd15d,12,This commit contains no changed file,12
+0a3d8b3ece8ea3f4db54fdf013be44582184ccb5,12,This commit contains no changed file,12
+eff67b3b7edf65f1bea52274af34d91c58c684b6,12,This commit contains no changed file,12
+707fac6f12b35765c531e6d495002ee80052af99,45.29,The build files have been changed. Prediction may not be accurate.,147.97
+ec6601d604a4907c8f9d8e8bc0b05f98c4555509,12,This commit contains no changed file,12
+e2bd18e2ad393d4bc43c37f66d067206ba07afc1,12,This commit contains no changed file,12
+d8bdac05e411289e36829c9bce10403c0aafe5b7,12,This commit contains no changed file,12
+dbc4e837fb29b228338eed4ec4991f57e7be7c1e,12,This commit contains no changed file,12
+5bfc7d8836d7c44ed80f2abe29005ad69700909d,12,This commit contains no changed file,12
+ec64171b53ffb0cc0b6b0f626045963d11c637eb,12,This commit contains no changed file,12
+d2d8d01d1c8b595b2c4a9a195e2ff08e47ddf32c,12,This commit contains no changed file,12
+4e25f9f4a82f5d8aa3ff9d6a372cc3c2c3338112,12,This commit contains no changed file,12
+c98eb45f06649e8e5a39f343cc7b6ac55a0598d3,12,This commit contains no changed file,12
+bc793aec8e2a4a91f0aea9b4c1527a078e8e9251,12,This commit contains no changed file,12
+2f1df1adbb0f6750814b75622f0d1e4fca488976,56.609999999999985,The build files have been changed. Prediction may not be accurate.,56.76
+f00115567fb187fe43652a72aca7a91bd043f86b,12,This commit contains no changed file,12
+2c4d331e9bc9b2db85def7b62c82e6b2e057288b,36.47,,36.33
+8af6e111e5fe9b2467fc0fcfda0c8a6d0b18187f,62.6,,60.33
+4f6d0a4d7a330b5e907e1b60ee5026ac8997950b,12,This commit contains no changed file,12
+033623d41661104d302eadd54341b567acf4099a,33.24,,31.90
+3f0cf7bb3e7b34a3d07d6ff81b934daa8f96c2c7,34.71,,33.13
+640f9a0e751331a83b8f86f0bef0c8c3e203a485,34.27000000000001,The build files have been changed. Prediction may not be accurate.,139.77
+05f098c149aad149a76774295c58ce371e5322c0,20.730000000000004,,20.08
+22239a1eeda8e7fdc3bd1d6f3eb2c4172de68883,20.730000000000004,,20.91
+6364c9d26e93227ed8ce1ae0ba20b5093b7d8f09,12,,11.68
+67811ea7bc618c2615de43af485f7a107834dd0e,12,This commit contains no changed file,12
+21864dd8e8cb5a32c0aea289161fe984dd84334d,33.13,,31.52
+720f206185e99c8f3adf0b56bf9e2e5c25267038,12,This commit contains no changed file,12
+383c51591ce38c60247546b2dee5f76f2b3d0ac4,12,,11.60
+6ee01afb45d0b428799584dd812cf1374f9dc8c0,14.27,,14.16
+494e9f16ebd3a10cab077b5af9d500846ac3bdd4,34.84,The build files have been changed. Prediction may not be accurate.,140.27
+fbe92f53efd8020bf46b4eb1cc4b8ca9dafd2eee,31.37,The build files have been changed. Prediction may not be accurate.,143.42
+30fe82ba19a240f7357a75d39dcbe2d7d22766df,12,This commit contains no changed file,12
+749d2d842d70014c560f036dd9f8e1d4bac399f2,12,This commit contains no changed file,12
+bf37fc6e2d4eff96442ebb4b698a0b07eb99185d,12,This commit contains no changed file,12
+295efb7ec4a96e564f304977bd5fa50c884975c1,12,,11.84
+4801d52321604a6ecedabcc8fce2488762356ae4,12,This commit contains no changed file,12
+dc22220a94e638aad29976a333b403fed9cc03b4,12,This commit contains no changed file,12
+a680a98e61e0f6a02baf769d83d5242b09367adf,30.35,The build files have been changed. Prediction may not be accurate.,141.90
+14e14e6dbfc2d74e1e8d5e3e4108fbed21fec506,12,This commit contains no changed file,12
+00de7f872950e38e284c3a35ef89bd3a925350ff,13.02,,12.75
+b2cd27533b2bcdc1c7699ce4f1c3a5df5aa0bbe1,54.26999999999998,,11.60
+ddf7f42941fb7d8818631d61233bfeb37f14e000,12,This commit contains no changed file,12
+a1ca5b57f9106c331b780235e8dee5265b7af6bf,54.26999999999998,,11.60
+eb81836dceaadd7f2b44127449961c84dd795807,12,,11.61
+c2a41f55a7731d1260c747b2282965a7d9b82049,64.56,,64.73
+26df1206876bcd1f365a1e8df72490dd64f273d5,733.3700000000009,The build files have been changed. Prediction may not be accurate.,768.03
+5158a4cec660f2d04dac90f48d31a06a2bcc33e5,12,This commit contains no changed file,12
+3d9660ae1a1c6a5d5c4ac741cddc857e70aa12db,12,,11.56
+091964b253e23c3ce740818a94680a80fc9ff2bf,12,This commit contains no changed file,12
+dc328de71f8cae0ec8affc844113f0f0d498eaaa,12,,11.70
+841b04ea6bf5a54adca541e48e1e53756c921929,12,This commit contains no changed file,12
+cd24688f9ac2751c4b89b407ab5e75b6eb15d83b,12,This commit contains no changed file,12
+98a29a4696bcfe81fa16a8c73868c73b6b5fe668,12,This commit contains no changed file,12
+d2554b4c170e543fed92ba58feeb81bc2277f259,54.49999999999999,,53.14
+0ac9fcfb6bae2cef7a3fd61653ff44f6c6548d88,13.57,,12.07
+55cdc4fb67c365c97e43d1bf1de840f594af748c,54.55999999999998,,53.39
+42c348bc8cec0babe7780fc64416871fa8040f7e,12,This commit contains no changed file,12
+2e04e1876fe060d29314062576c0baca21c9eb93,35.52,,34.19
+d2704b08f003de63d813e8f81c29af5a1ab576d6,21.689999999999998,,21.54
+9aa2546eb1cd65fbd4c6d333b87625eea33dca9a,12,This commit contains no changed file,12
+a05cdfa8ba73b53fe2efff17e642232041b6f490,44.04,,44.10
+571a5da7aad468e6290e9af6257a0a42b69c0937,38.86,,37.34
+570e0510c7cad7b0383f72313c5a062f6c871b21,12,The build files have been changed. Prediction may not be accurate.,136.31
+7d72b7ff6b3738e26b6fe117d46ea10c22635c60,729.950000000001,The build files have been changed. Prediction may not be accurate.,/home/ruiyinw/vtk/Rendering/Core/vtkRenderWindowInteractor.cxx: In member function ‘void vtkRenderWindowInteractor::ClearContact(int)’:
+9aa13b4c3da7bddf62304c77015ba8d2e06015f7,12,The build files have been changed. Prediction may not be accurate.,137.41
+190d119da204661b62f991d874ca8ae0af37551d,12,This commit contains no changed file,12
+f7ba5e6cde8eb682b52afba418f18fa0aa98d919,12,,11.73
+e7a5a75b94914866f784b7f1140b3cc38a990289,12,This commit contains no changed file,12
+905210081a07e3b16bfda525aa75d0957d701d46,12,This commit contains no changed file,12
+36edf38ff95aaed2cc9afa87b9c5ab4191d560d6,12,,11.56
+e5d977a6b9a4610b8253d7991b3fb786c096d8c7,12,This commit contains no changed file,12
+245f06fe2805e22ffc068e90c9c5a1c742192814,12,This commit contains no changed file,12
+3c4ad8f26d739ab9da17136b2ca71c7abac68baa,13.02,The build files have been changed. Prediction may not be accurate.,CMake Warning (dev) at CMake/ExternalData.cmake:674 (message):
+26fc6af6da4fbe6c5957c489d1975e8dc14fac1b,53.08999999999998,,51.81
+e83f156efc50e12b00872b499b9bce1ee3575143,12,The build files have been changed. Prediction may not be accurate.,11.98
+b5bda5e490f5a32ef235645d54c87d817167470e,12,The build files have been changed. Prediction may not be accurate.,158.17
+35589f1b254c20f0ed3aeea10d6262a7b52c33f0,16.740000000000002,,18.74
+ca3b22b9efcbf2d2b356e5d429e2dd484cf613da,12,This commit contains no changed file,12
+b9b6edd3f6f60e54d3d63a2b12edce0f6f2d5c64,12,This commit contains no changed file,12
+d5cef900a94ed947763e23590bac702d492b60e7,12,This commit contains no changed file,12
+7b75213fc09ef148bf4a55b6d5a607b1388a85f9,12,The build files have been changed. Prediction may not be accurate.,150.26
+82f6ac171c4f6cf8051c6763495bc3f0e190d1d8,13.19,,12.30
+e5c95c0241192300515d547283662e219e3044a7,12,This commit contains no changed file,12
+883f2f409e0137c9f6c84bb562841efe75f9b6e6,12,This commit contains no changed file,12
+2d73b48a1f0abe5f5eafe7146e5c74c1f8fcb881,13.83,,12.44
+bd3045de879206b66fef369334c8d636e9acab97,12,This commit contains no changed file,12
+ada46a8cb3a8803b9ab13e2576378f46768c17e1,12,,12.20
+7f55f60002cf10fbaa7b37f9dbe129dfb4785246,27.300000000000004,,29.32
+88894524505d2626278ccf35a1f9bd5b048007d4,34.010000000000005,,36.15
+c5f7b1472af71c49af7d6698865ddea64fa47ce8,63.41999999999999,The build files have been changed. Prediction may not be accurate.,71.00
+b4a7e2b7352426589e1ba2eab0e47f1fcf323dd2,12,The build files have been changed. Prediction may not be accurate.,144.39
+f3653e7647b91bee26247cfe3c0d134ef93503b9,54.26999999999998,,12.27
+6cb06aced706b94afb352805c69930d4af960738,12,,12.66
+5102947ddc320ef24131edaa0904c0f8d6f935fd,12,This commit contains no changed file,12
+cdbaa8378584bdba2c7bee1282c8929eab6c2dcf,54.26999999999998,,11.86
+9d78a7ac91782b30dc096ec333cbb18cfdab23da,17.57,,16.71
+96bc72393e6effdffc30aa8478e29a9eb4ce1018,12,This commit contains no changed file,12
+35981d145fcb461895464ea092ff55e58469e7df,12,This commit contains no changed file,12
+7a3d0a3c889cfbe7a5fa3f9499f1959da312be4f,12,This commit contains no changed file,12
+3455056ddcfbadce19a1e4016841ab63c8a60c54,22.900000000000002,The build files have been changed. Prediction may not be accurate.,148.30
+2de65085355ea1a7569c09b6bb2839ec5cf549f4,39.7,,42.94
+76c118c01ffc8f8799c1418d88efc7c66e2279d0,12,,12.41
+cb06bdd8716bde907f8ee46c24d98317a9bc780c,13.97,The build files have been changed. Prediction may not be accurate.,151.96
+514a5984f75e5242fb5fb1f180fbcf98d7c72392,12,This commit contains no changed file,12
+84e8c707146f7165dcd801ae0810a0b1797c6d4c,17.57,,17.93
+c8fd8f3e8aeb0c9110b6c46086797dc9e9443c61,99.2,The build files have been changed. Prediction may not be accurate.,101.22
+b0ac3f6470bd38657c420e8aa63d0fcc3be3c217,54.26999999999998,The build files have been changed. Prediction may not be accurate.,169.92
+1b2d6330f0ab90db54cc73bb0ea4d47cb924f892,49.48,,54.82
+1d3b08e4f4b9db98b3f04a9cef047ab1f1ba4197,19.86,,20.99
+1882a7c2646635076fea79af9113d5865c893ffb,440.52000000000004,The build files have been changed. Prediction may not be accurate.,602.82
+26594e1a7a87cd197b5860c50a845d9aa1bc2b3c,12,This commit contains no changed file,12
+117e54c585025054cb00ff0d69da9c974fd1ae02,12,This commit contains no changed file,12
+95d0ef05875a03b5d61a622fb21415901bdaf3ac,36.47,,38.53
+dce743d43df5fd651889ed133610f1ed57a045b4,12,This commit contains no changed file,12
+880e8b231c05edfa8970f78bcb5ea39544a589d5,12,This commit contains no changed file,12
+ec653c9162f273dfcd25faedc4ed89d8b13e7fce,12,This commit contains no changed file,12
+f06dfe5f3afd554df81b364a00557e68a54e9a58,12,This commit contains no changed file,12
+530e3b55d2592b4df5aaee82df48cec2d62a5c0c,12,This commit contains no changed file,12
+464e1a0f5c4cf92cdd28212b42f36d7c822af906,12,This commit contains no changed file,12
+806ba94d4c8932307f8b4d1ffd971e42c5a22f62,12,This commit contains no changed file,12
+22e22f62315cd5ea391facfa13074205e6534a1d,12,This commit contains no changed file,12
+fe6e1bf3a954409af1cfeb68b30776a68e241b39,12,The build files have been changed. Prediction may not be accurate.,137.73
+2dd3ea92b6c7f8886d20d5f1ebe2243d6eb6c06f,12,This commit contains no changed file,12
+79a0c93466978acef5d99b457815bab7ce519ef0,12,This commit contains no changed file,12
+25d44596f1a194ee4495fb20cfe0f4a94a7b4fd0,12,The build files have been changed. Prediction may not be accurate.,12.68
+cfe7c782b73f6d10dee83b1db2a4e6d6fc8e908b,12,,12.44
+5ce72cc5d394b9072ac717a449a55706c5001dc8,12,,12.40
+338b31362181d33375dc7e5cdf69f54e7bb1213f,12,The build files have been changed. Prediction may not be accurate.,11.66
+646281d9cea1342114e72bee5ca2efc3ac427d3e,13.49,,13.21
+d9135baad75fa01d93b48f50819e972f3b1a8a4c,17.57,,17.15
+537eaa09e17a53d85fe9afed10c1a9661e8c879b,386.49,The build files have been changed. Prediction may not be accurate.,397.41
+b0cbf25d59afa2415996bf0405c13057a0b21ce9,74.87,,75.70
+7d78e329920f6a26dd9f9f807d7fdfb78c2e0898,12,,11.84
+96ca3e6f5bb6b734504a82f0dc43ead4d1950bfe,12,,11.82
+b6d2b40600c16a007dfe0de69a73f391240d400f,12,,11.77
+38a59e4205f272cfc8bf45cecd17afb8807b7cdb,17.57,,17.39
+1feb9186a7069933652fb27dd7de45aafbef4e5b,544.2200000000001,,547.04
+1cea5ed2a81acbacbd7b91484c176081db873e8e,52.37999999999999,,51.72
+64c7bf0e8d0f1b950a7444f001442782e1d028d9,12,This commit contains no changed file,12
+324ebecb04f54e48b7ebbab49b88bf4646e3fb6a,12,This commit contains no changed file,12
+6ef9a0e865084779ed2cfe44c9873f8e6d06aa92,12,This commit contains no changed file,12
+8ad8380385af6f51da9052abff90ef1599cf68ae,19.17,,19.16
+d3529f54d3cf36585d3f591b310c5895a0c63aea,12,,11.59
+1cc1ad152dec84306dc4623a3444c8063085cf1c,44.15,,44.35
+dc7b7fff59561b5b9f6a88b817b19db07ed7ee2a,65.43,,67.62
+442c6be17eef9ee940f5ce9e4e26c6f2269466ad,63.73999999999998,,64.95
+e1dcaa3ca7e673592036c669d64f92550bdf7397,12,This commit contains no changed file,12
+fc40df5db4f9b371d8c25ed85bed87ef47279a8a,12,This commit contains no changed file,12
+d98fb81e4194d7d4d45cce87fe4940feb06d5eaa,12,This commit contains no changed file,12
+ac791cef23851edeff27425787067a8c128b1769,20.12,,19.55
+f4eadac10490f8ec5fa72e850f9c555836952eab,12,This commit contains no changed file,12
+70a314c94c71e46dd9971a99d27adc89300336a6,12,The build files have been changed. Prediction may not be accurate.,136.52
+35b859bd2abe9b7f2f2e9f5980c30a79c275840d,12,This commit contains no changed file,12
+d63a450b682a6fa6eb011695e513e892897a5ff8,12,The build files have been changed. Prediction may not be accurate.,11.54
+056d5d74b02d471969a637b7d554ca50219cfd35,12,,11.64
+8ef76e452d1ba7bf696f4b38838831a4e3ef608e,12,,11.53
+7c4dfbcfa0931a7b35ab64204f708b9cb45de643,12,,11.71
+1f4e43a24cc62e76d480d3962137d5ca21643de0,12,,11.75
+cb42266ca14b2ddb5e217824019c65b94993b2f7,12,,11.50
+f03d3f89e98636eb6dac75d55af28deb017386b3,12,,11.59
+864dbe217bd66ba7f7e8be1ee2d85c56973cf394,12,,11.58
+8f4c43eedfffba27b93d98990760c58b6d28a15e,12,,11.56
+76c6da7320182eb38db61ef3234eaaeb540ff95f,100.45999999999998,,196.74
+77155b2b7fd1bbba35405b37116d655654d50dca,12,This commit contains no changed file,12
+9058945636ab8da8d1081d25ba92811de6875698,12,This commit contains no changed file,12
+849afc862bc0e98c653aafadff2b7b543cd17b9a,12,This commit contains no changed file,12
+35fd32bbb88536e489c6293b3c9e033693c90a4e,12,This commit contains no changed file,12
+749c3a228a72858f3f5a6f8649a348bd67edf7ae,19.43,,19.27
+1d6fbe1cdd6501497c9e1c07d3c29c9f9701a70b,12,This commit contains no changed file,12
+84968ecfdadb1fdb0de145ffb798322e60b9c276,12,This commit contains no changed file,12
+c1d9d3618b5334859010a6966d8b00d861f2d6dd,12,,11.56
+32a827848a665e30a09fd82d86bba3dcd9c5fe0c,44.87,,44.03
+f1eacfacd046019769ad9232184ba8d6700ef654,12,,11.48
+e7fff9718342a90afec46e536b4fe0150c768f92,12,This commit contains no changed file,12
+0cc3462b796a6e81367c95d32b06ad70ab358a97,12,This commit contains no changed file,12
+b00e8680f4eca7edaddc33fdcaee43a9f621cafb,53.08999999999998,,52.53
+2efd04ee512ffe26b9ad8dec3a4d57d6aca56d23,12,,35.62
+e45f1de347f4ef06023ff69961e8ad4b744bfbdb,100.45999999999998,,121.47
+077fcb394f32c76b4c05a2456b61d000563a19d5,12,This commit contains no changed file,12
+9476e73e8b6ffca0468090c87c60415b33f24b1f,12,,11.41
+8631ec1c473e1277d5c87293a104f3eb87439389,12,The build files have been changed. Prediction may not be accurate.,11.52
+38cc293017945a6a9bd40981ed02ea21de0de021,12,This commit contains no changed file,12
+ab28eee6921791557e2bdf91a8c53ca98b7d7c52,17.57,,16.69
+e55adfbb010ae5139f5cd2d513c6741eda7a67b7,12,This commit contains no changed file,12
+ed1b0fb9eec69c7c2b5804f9622543cfc70f2501,12,The build files have been changed. Prediction may not be accurate.,11.48
+20a86e82a2a75b17c7643d818dc0c0939c123347,13.5,,13.24
+f0c36199a433b9b7cfe31dffcc56a8f7f0c80ede,13.5,,13.33
+abe4ea3b4d5b684b45897489b15e0fe7cc4ee256,66.19,,68.60
+13cf25ae9c7a003c9eddfab3a435942ab3ec09a2,21.800000000000004,,21.63
+0f1058486517f754c2e1db2ee0dc67055c257a63,21.800000000000004,,21.19
+6f083e6597b46ae81c95b47c95b312c1536b2da4,25.990000000000002,,25.46
+36c58dd86388d330593c5ec1f9b7872b0ac4fe52,12,,11.61
+9336a711d4dc64d7f6e2611b0443a92ce41ce860,12,,11.47
+ce285269b63f56b5aab06bf13381ba4f5b31b709,86.71000000000001,,85.07
+7619c556a2d028ed6d52958a0761aea57f66a3a6,829.2300000000012,The build files have been changed. Prediction may not be accurate.,885.18
+ad5eb64ffbb52940f23f0b29e7e159665fd07516,12,This commit contains no changed file,12
+d36e634b5eb6746b2ab7a4001f9f2dc50230b9b9,12,This commit contains no changed file,12
+42412fb027b1c3eecfcf46edda36210f2b0eae77,12,The build files have been changed. Prediction may not be accurate.,11.59
+c88a5c0782c4fd58046dd4483372f3a4a7314764,12,The build files have been changed. Prediction may not be accurate.,148.54
+b6e04cc9091c7c0200dcbb8fa850aa5accb35132,12,This commit contains no changed file,12
+ab401f88b3131fc3dc4e5fab3f757538e7f59490,12,This commit contains no changed file,12
+066df72876ac414b18bcb691f68489e14267d0a3,64.07,,71.08
+5401f1582386bd6a083e839e887120be6d18d249,12,This commit contains no changed file,12
+7073c11951ac17dfdb395ad7062838436b572b6c,12,This commit contains no changed file,12
+b0a0fac26ff11b703c631aae2f60615c0f0d6c71,12,,12.42
+cddd027e43d51f2ea726273914c6da63518411d8,12,This commit contains no changed file,12
+e6a75b03b7a3e9d05d6d647b9f5e161d93a63325,12,This commit contains no changed file,12
+86ef124d6e75b9d19fb20943dfc8e025c24023da,12,This commit contains no changed file,12
+1016535f4f3dfa09ab03e00b60777a0845f03f31,65.56,,74.38
+7e23fd65333d8c0f44b7b0770bf95cc5cfdaa04a,62.6,,59.61
+c9901c775451ff2031750f1f5fc7c2ebdeb0a192,12,This commit contains no changed file,12
+f227ff07411d707a9cca716cc3c20732283abc40,12,This commit contains no changed file,12
+cc1444f6d832734194be8b2aa91f8bbb6a90c82a,12,The build files have been changed. Prediction may not be accurate.,137.32
+275fc196ad6a6d6e6a2e771956721d791e93d5d3,56.43999999999998,,55.86
+facbbaecadc1d67e89605350c289655ceed15454,12,,11.71
+4408fd239e01aa0a2cd717b9df379ea7d3cff2de,53.77999999999998,,52.40
+80b143f45bbc9766dd2129a5043c12b8a91cf433,52.649999999999984,,52.10
+5d231910af2d31a699dc6e616ed23ccd51a61b6d,52.649999999999984,,52.56
+67b7b4b6d5b0ba0fd7bd18172bb479759a9d9e35,53.77999999999998,The build files have been changed. Prediction may not be accurate.,/home/ruiyinw/vtk/Filters/Core/vtkVectorDot.cxx: In instantiation of ‘vtkVectorDotAlgorithm<TN,TV>::DotOp<T1,T2>::DotOp(vtkVectorDotAlgorithm<T1,T2>*) with T1 = double; T2 = double; TN = double; TV = double’:
+847edfb1f693e9af39f3be9ae795dc4ef9d66296,12,This commit contains no changed file,12
+b4ca599ffdd22089c8e26be4c249d80fc42014a1,62.6,,/home/ruiyinw/vtk/Filters/Core/vtkVectorDot.cxx: In instantiation of ‘vtkVectorDotAlgorithm<TN,TV>::DotOp<T1,T2>::DotOp(vtkVectorDotAlgorithm<T1,T2>*) with T1 = double; T2 = double; TN = double; TV = double’:
+3f74d5e38595565f54f1e5bbf3ce9742937ea622,12,This commit contains no changed file,12
+b7b24f2ecf82194c6b054746e62a9caba555e3f2,63.08999999999999,,/home/ruiyinw/vtk/Filters/Core/vtkVectorDot.cxx: In instantiation of ‘vtkVectorDotAlgorithm<TN,TV>::DotOp<T1,T2>::DotOp(vtkVectorDotAlgorithm<T1,T2>*) with T1 = double; T2 = double; TN = double; TV = double’:
+16c8e862bc7e69d9c0d52b6c2820bc5f56e45c12,12,,/home/ruiyinw/vtk/Filters/Core/vtkVectorDot.cxx: In instantiation of ‘vtkVectorDotAlgorithm<TN,TV>::DotOp<T1,T2>::DotOp(vtkVectorDotAlgorithm<T1,T2>*) with T1 = double; T2 = double; TN = double; TV = double’:
+e530c69241f7e520021b80b018401effc2843917,12,This commit contains no changed file,12
+24741c45fb3fd9d96341150227da3f9652d343c5,12,The build files have been changed. Prediction may not be accurate.,10.43
+f85bd608fd094a22bd0ceea8edb9e49fdbd982fd,63.58,,58.69
+c36fb21258091ffb4a9af40e61b4e6df67a015d2,14.16,The build files have been changed. Prediction may not be accurate.,68.02
+1243c535119c57515dcbd5131b3a8bcad5299a78,63.73999999999998,The build files have been changed. Prediction may not be accurate.,92.72
+00956618550cce1263727e7eb268b0ccda73cbb7,12,This commit contains no changed file,12
+e807bee3fb82c3968f135d22705730d50ebb768a,14.4,,13.07
+8ae05d907d5b047be79574cf8cc0c3c9a816e51c,71.74000000000001,The build files have been changed. Prediction may not be accurate.,167.18
+53c85eb70c5cacd929418d2e8bca638b7a20f8f2,12,This commit contains no changed file,12
+8a067628a67035ac01eace1e9b336615e9abd8c5,12,This commit contains no changed file,12
+752ae5eec4035a843891c1409d8798d54f35e58f,12,This commit contains no changed file,12
+d251afe227d196a9da4ea79238b45315eb7ff9bf,12,,11.04
+a0a26a3aaab07f64cd178df02714c358c1044f17,12,This commit contains no changed file,12
+c3ba7b12845e26d0b4b4d8cc8370622bfe0a4d49,46.55999999999999,,42.71
+e99411c8abf6a7f2903440a3bd6b64ac4bb3f3a0,12,This commit contains no changed file,12
+42ac85a1f121481c58921de39090da9061a21c37,12,This commit contains no changed file,12
+624fce0783271329e42e6479c851e4362e89bff9,12,,10.21
+3a28391a3af213db0bfd1de2120c53e20b927f82,12,This commit contains no changed file,12
+c1a34eaf49b774ecf79b0e0fd9e0e0c72c31c09e,12,This commit contains no changed file,12
+de00fe9e53d2e3deae7367e8028fd3c9df82b2b2,12,The build files have been changed. Prediction may not be accurate.,133.90
+48a71b29f2557ac2da06d4338359df423f4c7b60,12,This commit contains no changed file,12
+6ce833026c94bb9fff7d2a3d5c24bd9928dd03e3,33.02,,31.25
+7336fcd16a9de83f7a61f93e71ba1a8aee144a55,12,,10.76
+46a6b4347528fd020e0f9eae2efd5a1f6c0e5b09,12,,10.77
+fda4f7175938ad2ee389d8b7c46a48ad874def6a,12,This commit contains no changed file,12
+30ab7afb3757a10b43f86f697305255fd6d628ad,12,This commit contains no changed file,12
+101fa08226231a0c7689f336643bc7b66e65e9da,12,This commit contains no changed file,12
+d14d4ad222cf673b11963e192880278aef7a9f63,12,This commit contains no changed file,12
+b7da2abd799f4eba8d57acdda55b6ed0ea75e884,31.700000000000003,,29.21
+aceabf30a7d0bda45f7895208d871f8da2e6484a,2195.1099999999956,,2334.02
+df737e92b3906a35630cec89facb85089741f8a1,65.68,,73.98
+ab9d8eb84f2201ada3c917747660fedb82806a66,33.24,,33.93
+e263eedaf28367c634ecea33e9cefab39ae0d72b,37.550000000000004,,39.68
+70edf5a88ac98a0ae91a515f53b7b223369665f3,12,This commit contains no changed file,12
+4360d3ce2f43f31175599d70307ec84a55920d07,32.7,,34.74
+07462b885459a676ec38a6c2f929ec68a5c9604d,12,,12.77
+b6c21bd716ad0a8dc4d7d84ec6e8b232087f9309,12,This commit contains no changed file,12
+46b582a76474255ad871525e82676b71744f7b5a,12,This commit contains no changed file,12
+e6f75b9a36c77f291e5eb17c76fa47729312368b,12,The build files have been changed. Prediction may not be accurate.,150.50
+77f7a0dde20c219a0c283abdb8ee9567bb2f05f8,12,,12.07
+212243241e67f265183c01d8214e737be9b2a5b9,12,,11.98
+d0fb64a36afa7211c33f8d3e763287efb8331350,122.26999999999995,,137.93
+bca06605d3ba04b7f8051926f5f27c6ba4a34dc7,12,This commit contains no changed file,12
+5542be50df5118b6731247204760213d32c5acd7,12,This commit contains no changed file,12
+5fc3c7e82bb97f8b870f15f9e8812d6aea163410,12,This commit contains no changed file,12
+0ac009d0f132bfb718faeca427045ff9cd579046,12,This commit contains no changed file,12
+79b8190190ff39aa63898d001103d6182c2bb2a9,12,,12.22
+844f2e060cc512d974dfc53c02c721cc6c4c4542,34.54,,37.73
+5b4026810f7edd12ba54b437a52fc9aafb07b4a9,38.39,,41.78
+271bbfa3102a09be22c4a13b21daea3405f3f2f6,12,This commit contains no changed file,12
+45d651773aadfa665cc8855e4f5f5b1b94f83781,34.010000000000005,,37.05
+eaaf93879aaefd1db82b5ae00aac2bf719abebfc,38.39,,42.03
+dc65ad6fac2cb5ee01b20af14de3090bf3fd8af6,12,This commit contains no changed file,12
+aff9f7b1d4369c5ac925a2fdfb0e657028ef25ff,12,,12.71
+3680619e6cc8f28f4c06b741025bb4ea28a1b8c8,12,This commit contains no changed file,12
+37685ff4d083a067c01907ba2f436a9530e26b06,12,This commit contains no changed file,12
+d86ce5dfcf75bd1f63f8ec42f1389509b5a57929,38.39,,41.05
+c8486015a051f5bf36f0f6cb7730b23a7b5a80a7,12,This commit contains no changed file,12
+7bb212d348f7e913edc6504b14fbec797ee44f78,12,The build files have been changed. Prediction may not be accurate.,13.51
+698e9c40f5f260a39c4fe92d19f9bbe04f463dba,45.209999999999994,,53.11
+5fe9419bdb702e1b0192cb22276619b34ade8536,12,The build files have been changed. Prediction may not be accurate.,81.25
+9e204b104014054083963f134fcd5dca3c1f34c6,16.43,,14.76
+41f5902e1be7a3e3d2e61cffd23da16d6a0a91f7,12,This commit contains no changed file,12
+c11ee9ece0324fe683d1fea1faa39950af949472,12,,49.24
+f75eb397a857f0cbd39b0cdb38ed47602b277368,12,,50.47
+2c0a8dec3f3627585428fa6d9f88d93b09b66966,12,The build files have been changed. Prediction may not be accurate.,81.20
+54088f5c8f085c4fd3d7ab8b9ad8142fbd5eca34,12,The build files have been changed. Prediction may not be accurate.,12.50
+3370662ba258af5695e9dbc1fff3210cda4209dc,14.620000000000001,The build files have been changed. Prediction may not be accurate.,72.07
+9788ede1e83e24858ddc4f1bb67a3c3c2b415597,12,This commit contains no changed file,12
+ce35f13f9f7b0ce27b33663a7ae03fe4a6ec909c,12,This commit contains no changed file,12
+d2e9ab97af86266d75aba472d4bbdc1e672d1c13,12,This commit contains no changed file,12
+2a68103d5f0ce4bc3b2bf2a90e6ba7646165ce85,12,This commit contains no changed file,12
+a0d05f27cc6c1979cec60abee56beb6f96a074f6,12,This commit contains no changed file,12
+dafc433dbbda44ae0fd28deb446864bfea539b42,31.93,,32.35
+e5bd41ebc2fc81fe486e1783c99e9ebe2964616f,12,This commit contains no changed file,12
+861343ab7c6bf4034b506b5da44e9cabd83d62e7,17.65,,17.46
+f8b0e234de17b09e24128c6ee74bf3fd161fa145,12,This commit contains no changed file,12
+b882736a59721f1f8123ae696baffea5d9850deb,12,,12.23
+5a524b007623fb4cbf02d5374510180e7f936774,12,This commit contains no changed file,12
+928350ee0796b7e1e9f829a7691b866bf94ee60b,54.329999999999984,,56.94
+8039b323f101e9120aec27822fccf8871ee034e6,12,The build files have been changed. Prediction may not be accurate.,68.62
+a18a009731a69085dc450ecd31daf1fc26abb911,12,The build files have been changed. Prediction may not be accurate.,11.79
+47425ee694df750be696b0f6ade9a8dc4fe0b652,12,This commit contains no changed file,12
+58e8ab2b3c00ae827e373ae325a0e1f429c4bd2e,12,This commit contains no changed file,12
+e43740d87f28373feb5b9f516f15735afc763942,12,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+d51a1cbca0611aa89c290ad31314496b597d9003,67.87,,make: *** No targets specified and no makefile found.  Stop.
+3c999e8ddc9e02b9a0fa3ab84561b8d43ae4b071,12,This commit contains no changed file,12
+53bcb5c3faa4bf5cdb4f782fffaf8d81d834973f,12,The build files have been changed. Prediction may not be accurate.,67.94
+4224ea01ebc92adf72f7eb941ef737ab6c476e69,12,The build files have been changed. Prediction may not be accurate.,67.24
+55d0fd1a7ec68c49373ea7b7006dbb12c34b86e0,12,,11.98
+33b2338696de5f42d6fa179e911d8062c4cada8a,31.700000000000003,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+3a1cd1f1536b5fc28e755e657b4c1e4649dc6ec5,31.759999999999998,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+d6b0923437eeb7913f3bc833d7942d5806ce7646,120.09999999999997,,make: *** No targets specified and no makefile found.  Stop.
+de2d18af4c120f6b5fb42a27c5ee1218d0cb620f,12,The build files have been changed. Prediction may not be accurate.,68.14
+becea5ed9b94669e6e5617e4884b5d1b406bd445,15.83,,15.50
+6671660f7cb0950ae1b35711dea47b2ab42dc17c,38.040000000000006,The build files have been changed. Prediction may not be accurate.,make: *** No targets specified and no makefile found.  Stop.
+26480bda9bb29bd1a2f7a5f06493a360bbe65ff2,12,This commit contains no changed file,12
+84e5248b72d8f9a71a0f11e5e0adcf801bc67ede,12,This commit contains no changed file,12
+fa56876cc2eb62b33d49fb044ff1c2d630af49e0,12,This commit contains no changed file,12
+29a340d53dae092509eac22a4b91eda4b3a52498,48.70999999999999,,make: *** No targets specified and no makefile found.  Stop.
+206f12ac9cef0c5c1a7b54a29601608520982efe,12,This commit contains no changed file,12
+79ed9c29fd4abba7276f5d98320c613ba277bf5f,12,The build files have been changed. Prediction may not be accurate.,73.28
+86b6ca6e5736cd6ac7800e0d2f39c6dc7d2a8a96,12,This commit contains no changed file,12
+306c8a9442d497514a72def52bc03defae6f55ee,12,The build files have been changed. Prediction may not be accurate.,12.12
+fec2e498a185d8c36d284f2ba93914012720550e,12,This commit contains no changed file,12
+ab5b693a6176040270aeaac2dd51a7787c3dd390,12,This commit contains no changed file,12
+050a4a94a82bb699715b6d3f493f54b37c0cc4e9,12,This commit contains no changed file,12
+b4138f4d13fb6a9634e45e945e95f034cfe8072a,12,,12.58
+2f6915f61987d3d29292f4f27a4bbc1343d89d63,12,,12.90
+edb1dc550e25561fa99698c2cee7967b83f21371,12,The build files have been changed. Prediction may not be accurate.,12.19
+ebac805b7be66d1e94055b8d0ceda9b1a8a953bc,12,The build files have been changed. Prediction may not be accurate.,12.43
+8f68f6c15fa1e639d7443a7fcf9e7f419c706bac,12,This commit contains no changed file,12
+0295dfbf513bf369db35bf6ba9ebdad99355fa34,12,This commit contains no changed file,12
+cbd0bd136904e69d947220945304817c6078d6ec,12,This commit contains no changed file,12
+249b304a01ea91bec36e8ec523b8d94912af9f2a,12,This commit contains no changed file,12
+cd4e06ad1a13089ab669140f1bf77ceeecc5cd09,12,,12.19
+d3bea4f54278cee75c0b1af9c72c9d00a0987a8b,13.92,,11.92
+9112341ace3bc9b89f522e539a34bdfbcf13b1cd,12,,11.94
+ec13363c24369e7b6790b35e8a8329199f0b1f0f,57.98999999999999,The build files have been changed. Prediction may not be accurate.,96.17
+55a7c0e0e2437d2e36b6be07555e12134a88a79d,12,,12.55
+9d816358dd18b844629b9dc39d5f68e948432c82,54.609999999999985,,57.62
+b1b0b63586fca9e6172d0dbf25b742d26a5064a4,14.89,,15.92
+e897682ab6ef157ed62fcf964a9bd23ba541216e,56.609999999999985,,60.49
+b3606ce7f99f7e23fed6966c9d0684842e592269,56.609999999999985,,58.84
+5a64ead34dde0ec70f5e22bc755d26dcea95035b,54.609999999999985,,55.98
+4aad3c6a38cbf8cf4bcae688018ad2a69a3f6718,56.609999999999985,,59.49
+17dd6c5c6e2a5f38622f48fd9f8ccd529df5967e,56.609999999999985,,59.67
+87012e515190acb3bac3b4dc793610c6294a8308,57.509999999999984,,60.94
+1a965eb91574960dba6a858b0beebb9cba28a0c2,57.509999999999984,The build files have been changed. Prediction may not be accurate.,92.09
+ee3db155d3685123ab022941c875f1ab44a1a0d2,36.970000000000006,,39.45
+46009b9b9523be20f3d5a4c549557b2ce0d339af,12,This commit contains no changed file,12
+456539b0439a4de534e3cf3692e66fc254f68fdc,12,This commit contains no changed file,12
+585a7c9e8fdc78aaa961574585122c8a558d9ab7,19.17,,19.15
+506c6eaf03b8a6c4391b5dbe054c9f2c886cc6ef,12,,11.69
+2b37b7fe1365cf7492b66ad54b75bab1c8761e48,12,This commit contains no changed file,12
+2fda9d28d8b2e5a46305042a36b3241299ff5e51,53.94999999999999,,11.94
+b961d6d7af8c8dc5a479fd6f7cce9806f82cfea9,12,,38.44
+37df0bd2cee11066fa785f1c7965b1ed24807365,27.300000000000004,,29.61
+63a993a7cc4fc46130f9e4c7a2888f4e86b66bd7,12,,11.73
+97cc8760d4019e8ba12cef50df8b011df4dc6510,12,This commit contains no changed file,12
+04a929146361b18f9236636c507b7b6efaa3deb8,12,,11.85
+fcec93c78b5fe2b17b7bff3313e41ee643489c5c,12,The build files have been changed. Prediction may not be accurate.,12.15
+a38e3d114ee72722c9bd6adf9816dac971d2b1c4,240.00000000000006,,265.06
+941be8d86a9de8ea07cc14f1c16794327f4fa0c5,27.300000000000004,,28.17
+27762850d6e16e0092165ba4f3e275818f65c3ba,89.33000000000001,,11.72
+1cea85a8d40114374c329c8d26d92c4356df678a,12,The build files have been changed. Prediction may not be accurate.,11.66
+be2478c24bc8385b6eb48c9f08f0ba7a3882bd16,12,,11.63
+a98c952a1d88e75dd35ae16e284d490d51ebd32c,12,,11.84
+2cb872b2f444203961abe7287a3593859b5cc74d,12,,11.71
+d12a9fa99e95f5f9999ab2009f72561dd0e2b58f,12,This commit contains no changed file,12
+67c0a8a81781810e8c310247acfdf115903a59bb,103.71999999999996,,72.01
+176a0dd6c883e55fc7099a926ba889a43b2dce59,12,This commit contains no changed file,12
+364897706d85817907f6c321e28a314e2834af61,12,This commit contains no changed file,12
+bcf91e5b9c935cdc1c35613c66ee3849c7e031ec,12,This commit contains no changed file,12
+ba8e4100a0f6ec50fbcf06e8d1bdbc8332cdf3c2,12,This commit contains no changed file,12
+7c6cdef6445bbd3644025a3f1ac8060e50dc30cb,12,This commit contains no changed file,12
+64e5bf979e9e5ee111333e96eff6a0042f0d9ee7,34.010000000000005,,12.79
+3b6810ff252a851cdcce8a83abcebc1584eb0efe,33.06999999999999,The build files have been changed. Prediction may not be accurate.,76.61
+b0291dd313cc1577313f01ce109b504a5d87afae,33.06999999999999,,12.77
+1d97b407b73e01440e7e854b3392dec332253c1d,12,,12.21
+548149126982925dfc1668f60cf3ba7829f8720d,12,This commit contains no changed file,12
+6380827bf559171c3a9eb54b32f4d9b0417a6c9e,12,This commit contains no changed file,12
+e3ef8a6017765f62ef6a1149b22d14679d388a4e,13.36,,13.64
+b7849e491a8585b78dc4a5c701743a29c32be8bd,12,This commit contains no changed file,12
+f386836b55bd40db4be14c48b14e0cc3edbd8b1f,12,This commit contains no changed file,12
+eb700f12b002cfd5c72d87e5e108ac9f5148cb2a,15.15,,13.90
+aba1844bba8d2e6a8371e8390e962ba9a1ce1555,16.560000000000002,,16.09
+dcadad3ba7898ca93ac849361fe4e9052762e4cb,12,This commit contains no changed file,12
+e63f93a6fe948f047b7995d6380423db5c5ea40d,12,This commit contains no changed file,12
+09965ed16d389de07f62c6ffdbc2786ca8b06d02,12,The build files have been changed. Prediction may not be accurate.,11.62
+be56939c7588059c56e3309dff6002725511a792,12,This commit contains no changed file,12
+6799719584a22f2ace7cdffe2faa650a00e805dd,12,,11.47
+78dc4ae8ca40299842bada49b58c5eb700c9794c,12,The build files have been changed. Prediction may not be accurate.,72.75
+3f70e5ff161289e6796b5d3a30e653069bcef467,12,,11.68
+4ffd954c383da514d426c6eb3eec32d8d2f26e83,12,,12.03
+e89daae96e3bfbb8f35fbc4fe552e90bd01d9645,12,This commit contains no changed file,12
+c98f0766c62e2eda2878b1db860657ff88c38e49,12,The build files have been changed. Prediction may not be accurate.,13.15
+0e7218880af45d50ea36c8e6346a5d687b40b18f,45.46999999999999,,47.93
+81ff304af52ee417bf27926aa0eb293354e8e9e0,2484.5299999999934,The build files have been changed. Prediction may not be accurate.,2857.27
+6aecd17fedf05a36f6f4c60c9a6c156b1b95e4da,12,This commit contains no changed file,12
+8b686ebe680bd8733dccc0e5025d0a0f201223b3,12,This commit contains no changed file,12
+9b868cf92550c3e5fb080ade5f229d83f6759526,12,The build files have been changed. Prediction may not be accurate.,73.26
+394633f894a9d791e56efc7776cb61848d24c791,12,,12.54
+c3e55b81d3eabf7dac1c6948b02471262bfaa655,12,,12.70
+880313ba3c9f08575259771ecb257a6a11098d53,16.73,,17.59
+6a6500f7a66b3ba27d3353956e3166b137300a81,12,This commit contains no changed file,12
+50c8e8249120b9cf693ece7c143379e6fd64ca75,12,This commit contains no changed file,12
+81f64f1d1a14c913ef0fbf2fbc0957d80c0784f6,22.75,The build files have been changed. Prediction may not be accurate.,81.64
+e8955d176c4d7591ff9ac1fd5fa0c80a6dd7fea7,22.26,The build files have been changed. Prediction may not be accurate.,75.83
+fd1acd3adb4e4deeac6add9c5b1cae47c5eb2a0b,25.630000000000003,The build files have been changed. Prediction may not be accurate.,78.24
+2aaacd0345f560edc4a78504b8d63395e8bb6b6b,45.209999999999994,,49.23
+23e95dabf6f854cfda264517c3cbdda9eef9001a,44.18,,49.95
+ec26fd3ea60025c2c4a8a9b7633c43bbdaf7bc26,12,,12.81
+6d2409adb958ec57a62f8ca7e393caf948e0906d,12,The build files have been changed. Prediction may not be accurate.,78.53
+cfe9ac55f9c70e38e47ca931dca0787d63988025,125.88,,135.98
+1dc82c6bd8466c0dac40adc781b2f037fa063165,87.07,,99.18
+356caf1b3610b6cdd7e5f2ac45de8c8b105a8de9,245.9800000000001,,267.80
+db6775f1278c0e6f3c719297c3d79b271cf6c8fa,153.49999999999997,,169.31
+70dd85a0e8a14330a2635716f8743ee14c3783cb,17.85,,19.68
+bb0ff969282567647e05bd8c23a4397f61cbf6d3,12.43,,13.22
+c846e28122e1637b6f2a32ef39f76eb0c0059067,12,,12.89
+63fc5beaf1f2302d1f2cbf93937a9647f7dda71d,12,This commit contains no changed file,12
+3b8bbaa81a33f64809e634d98a89c9e11e99e3ac,12,This commit contains no changed file,12
+04c454559dbd559fe1baffd8612d8c1e07fb25e6,456.4000000000002,,514.00
+de486ef45a682a0a4fb2b0205103f260b94d9dfb,12,This commit contains no changed file,12
+e5feafae196e557e42aee1fc7b25aa9dbdd0e636,67.13,The build files have been changed. Prediction may not be accurate.,100.32
+5d99b8c2c54c6d7574a0c7b09c147b6b76c44684,12,This commit contains no changed file,12
+060043652e6b338fb4fb5b4a0b87a10bc7f7ee1d,52.509999999999984,,56.97
+b0cf73fbad2c5ff6fb6fd5a38a9439996e42ac89,12,This commit contains no changed file,12
+e12a81578a2abf81e4efe74bbcfd34f280666298,2461.879999999993,The build files have been changed. Prediction may not be accurate.,2596.44
+1b5d4d385c0bbb4f1f52ab1f80ae0842f899e1f5,68.08999999999999,The build files have been changed. Prediction may not be accurate.,13.29
+e94b24fffddb94258359580707350c0ca1e8b7e8,12,This commit contains no changed file,12
+65690ed56b1d85d9d6bb18ac936ae0aff3f4cc88,66.35,,76.54
+59db1ffe0e48daee4bd92556d3b2b9a370822304,34.71,,11.92
+17414afaa37dd9d19efb8e32cb1fcfd558b2b85f,12,,12.80
+82e7d1c94c50c4af4880ed1b745369a6c02b9b7e,12,This commit contains no changed file,12
+bb40b221bd978b1cd364780b501aedf72bd677a6,12,This commit contains no changed file,12
+8792c2832400bd45abe51579dcafdb9fbcb7a0b4,12,This commit contains no changed file,12
+a3004a49f1c49db5009d6c283242330d07e4b879,45.889999999999986,,53.71
+728a739d2ef7c873fa85f68aa15be61d0c6b924f,12,This commit contains no changed file,12
+f4344b132d2a5beaa521dad5a0ce980cfb4cd360,12,This commit contains no changed file,12
+4eae3d14e27e48db3e2cc4859e4e89e659d024dc,12,,13.18
+c0c0e7a7be6e2da121cba406814a6c03d198da24,68.1,The build files have been changed. Prediction may not be accurate.,12.57
+431f92db2ab1c1b64ec18e53a7cc8dcf38d1a5d6,12,This commit contains no changed file,12
+bcb3d0ce1f3cb17140e9934a2c40008b01f2ce6a,12,This commit contains no changed file,12
+1f90f47f8bb5caaca96927c87db21a76b55918ed,12,This commit contains no changed file,12
+dc6da03808dc79a8e48669e32c84ca9d151dea69,75.59,The build files have been changed. Prediction may not be accurate.,8.96
+299b418356def8dd9ef2c5eb16c5cf62d92e315b,12,This commit contains no changed file,12
+1eedaf88df35b8d17ea3865b0203a401006ce76a,1881.559999999998,,0.28
+ce137831b2471745d340ea742ee94d62358c6f30,34.71,,0.30
+d38c65bacc675e40f1291a4f736704c38575d474,33.12,The build files have been changed. Prediction may not be accurate.,12.48
+e2478fb660bca86887799d248efe44635467541f,12,This commit contains no changed file,12
+f09903e468b60c20a1e30cb665a5a72a8ab3140f,12,The build files have been changed. Prediction may not be accurate.,74.63
+c2a63124091e565b4aba7dd4d95935fa6419874d,12,This commit contains no changed file,12
+dfd0f4e93fd3caad08d94d3ebb98265b29b0be7a,12,This commit contains no changed file,12
+6c1b1cd6a245611d93d9d89c89fa50456b9f62d0,12.46,,12.59
+0a27e58cd97d086384df710aa7f4a3ed306583f7,12.43,,12.67
+e785caa89dcecfcec015349a84a7a22da082d6d9,19.970000000000002,,12.36
+e785caa89dcecfcec015349a84a7a22da082d6d9,19.580,,19.51
+effa1ddd109555cfad83f621e72c8b81fd2ea71f,71.990,The build files have been changed. Prediction may not be accurate.,107.71
+da668c35587c3a53fa59ea7efac071faf3330135,12.000,This commit contains no changed file,12 
+17cb1cbd150e3d9c21f55980ce233c6f5c84f3b9,149.500,,160.85
+bddb13b1693e03676c07624ddde9f4ade3cce022,12.000,This commit contains no changed file,12 
+215aa5445dbc20dbbb6354fd97d1717806d29420,12.000,This commit contains no changed file,12 
+84b126f964763a556da467e643c5aa8cc650611f,12.000,This commit contains no changed file,12 
+98b27bafac13a0b4a156d3b8cef9060ab39b2646,12.000,This commit contains no changed file,12 
+6d2d0fbf7c1c3ca3a081f52595d4dd1649371226,12.000,This commit contains no changed file,12 
+65c927dc75d8cc3f3f3787c312a682173aa4b785,12.000,This commit contains no changed file,12 
+bc193806d5079786c3e257082801c62a0819eee9,12.000,This commit contains no changed file,12 
+5b08d1984b933114c760c71cbac7a7384b6749fd,46.420,,50.61
+ce8fd4dc5698a4e9fff7ef22e6f5b2e30cc22608,12.000,,12.44
+f1b69920ae2730a0a2e09f697bbb520caa96f488,12.000,The build files have been changed. Prediction may not be accurate.,70.97
+66cd7a026991de83b7263ca4a9a9d949a553f597,12.000,,12.09
+6d4ab070a4428ae722f8ff3b43fea1f0e45277a0,12.000,,12.23
+298a18d2108f8b5351e3f10c065e09727fc382bd,12.000,This commit contains no changed file,12 
+1cc135821d4a89895e1d3fc6fb4d737d29b59bbb,12.000,This commit contains no changed file,12 
+5af8f952aefdb7b9d6d9344c167068f70fc968f3,12.000,This commit contains no changed file,12 
+cd34664349e5d22a367c3e31a5abc556094b43cb,12.000,This commit contains no changed file,12 
+0d5e8ff2edaa11dedab3c0e3768d884795c18da7,12.000,This commit contains no changed file,12 
+638d62dea72e87162221e706af413d1133da5428,12.000,This commit contains no changed file,12 
+355f0e0d5c8528ab5b98a82ad347787a747ad0c7,12.000,This commit contains no changed file,12 
+b784ea19e07bc6813f071770b1c5cf6e2b5d63b4,12.000,This commit contains no changed file,12 
+04d14cd7c5fc3649fba4eac1b4892248a8d8c759,66.990,,67.85
+0a09239551bf9d47187b9ed4b1c5e7ae7b267be7,12.000,This commit contains no changed file,12 
+07b4e3e8118d3b52d66a07cd3a77bef0902eec52,64.350,,66.59
+da60022b33f433788d35ffaa3d39b47cc012f75d,12.000,,12.07
+6694a0faec1302ccefc7ecb315d2094e817683c2,12.000,,12.19
+2a22829d04102abbbc4f84ce277e90fcced0879a,46.420,,48.13
+9f7027e4fa5885091151da5239ed5f6593ad8b33,12.000,,12.33
+c2cd9fb8bf089f9e2a079eb93871ebb845ebe950,12.000,,12.12
+603d923bd62573294df82b51e86a8708d5f14ff0,12.000,,12.29
+af1d1d69f367ab587f9361363a3041c2424f4ee4,12.000,This commit contains no changed file,12 
+d06cb9939e0ca470cb1564f4640045ba93823f95,12.000,The build files have been changed. Prediction may not be accurate.,12.09
+7ed37e9603105db4da600e2d2a65c7b18a50bf2a,12.000,This commit contains no changed file,12 
+1e51af3f0ac3e4109a2ad190913e140afa70641d,12.000,This commit contains no changed file,12 
+9804fcbcb1a604c659844559d8c80ff8b11ccb93,53.050,,54.31
+51f9cb2b20a843fb255f35aaae845aa7674db1d6,12.000,The build files have been changed. Prediction may not be accurate.,70.58
+d8611b57cebeab0996d25b3d298883fc5729e41e,96.050,The build files have been changed. Prediction may not be accurate.,96.50
+7cf68457da0f51d6179cb3631afb6f6ebcffb85f,57.840,,59.26
+062699cf59469db71955baf9b58823bab049eb58,12.000,This commit contains no changed file,12 
+f618a866de325b3cbbfc477a91546be2d5c7c69d,12.000,This commit contains no changed file,12 
+97348a7292439e8a783537eefd0a4b0f029f5aa8,12.000,This commit contains no changed file,12 
+255736403ec17770c6d9d9df8def51e87e31828d,34.190,,34.13
+5ee0129313ce3dafba02291c9393b25a9305714d,12.000,This commit contains no changed file,12 
+7673512aac35e7d456ff3ebaa2da2b9b113381da,12.000,,12.05
+fb04a30b04226c32bcd0261bfc1958b772174b4c,12.000,This commit contains no changed file,12 
+0ffd410b6b6d2a3085e16f17a4945fbb8736486c,12.000,This commit contains no changed file,12 
+dd9311c873abd0b2ffdf4c8921e9deb45d73993f,12.000,This commit contains no changed file,12 
+db3b58887f37e427fc9cc9915990261ea0f60713,12.000,This commit contains no changed file,12 
+dd2146e4faff566878a460a4ae4d9f1a97ce6f74,12.000,This commit contains no changed file,12 
+8aead0857f5d2d50166bd187fbd9d4a30de71fc0,12.000,,12.21
+6b20abf4f9cbf27de6cca64b36afcccff1b164f6,12.000,This commit contains no changed file,12 
+d703f2ea6e564c5fdb6b51715384ac9ecf9ef030,12.000,This commit contains no changed file,12 
+f52e5b847e467a96c7942d1c7aaf70aa08b73823,12.000,This commit contains no changed file,12 
+da50d6c17e64c98f753a3091b617b78fe9fe8aa7,173.200,The build files have been changed. Prediction may not be accurate.,207.47
+0e0059d3161fce679177c5b3c9cd171ea09ad03e,12.000,This commit contains no changed file,12 
+ab3e753f759a150c6c27f009d91eea3a757017ab,54.630,,55.96
+f433a4bfd9f763efff5697e4a972c692b72b32ad,54.630,,52.76
+3c61d71c3c85ba97deeeaa3af277f0955efdbe75,12.000,,12.29
+799a1481d53cd85e7eaac2a03851649c0b8b8885,68.270,The build files have been changed. Prediction may not be accurate.,/home/ruiyinw/vtk/Filters/Core/vtkElevationFilter.cxx:54:13: error: declaration of ‘class TP’
+65a09b2c6dc302bc751c6414757d3ffc8182f858,48.240,,/home/ruiyinw/vtk/Filters/Core/vtkElevationFilter.cxx:54:13: error: declaration of ‘class TP’
+ea3e57a6dbb92b50fd682ae48d2775613c1001d7,12.000,,/home/ruiyinw/vtk/Filters/Core/vtkElevationFilter.cxx:54:13: error: declaration of ‘class TP’
+6b31b8bcad429b350714c98db93e8b6b5d1d57c6,12.000,,/home/ruiyinw/vtk/Filters/Core/vtkElevationFilter.cxx:54:13: error: declaration of ‘class TP’
+fb4c5ec8f52786924d3c3babf80f9ce296f15a46,12.000,The build files have been changed. Prediction may not be accurate.,71.74
+4a119cb46e97394fe7bff13fc44ddde645eead2e,12.000,,12.11
+b0deaa4d9f4f7fe74f581c575660cd3cf958cb92,72.190,The build files have been changed. Prediction may not be accurate.,106.65
+1d7ae9e799564c71a26f985a3531551a7e51a605,12.000,The build files have been changed. Prediction may not be accurate.,69.84
+53bba21a52a22a6a0d82b2a5d3e1fb94e1d91ca6,12.000,,12.21
+dae6f716e769cc54f481f9c7ca1e938a5938fd1f,12.000,,12.00
+c8e7f7bd3da26db68d942779394dff4858305510,12.000,,12.14
+3891a886c2dd7ddf6e98dc29e420d2ac321aceff,12.000,,12.01
+2086de24126521d84efeb4ede1991f68fca1d334,12.000,The build files have been changed. Prediction may not be accurate.,71.38
+3459fd9182edfa53bdf4c5bd6522e7b62524339f,83.410,,86.54
+0be93d40cf58e71b884f9b1d665150ff9b685fab,12.000,,12.09
+d33ae4dcd3323a0b1635e993cbe3f6866adef453,31.200,,32.53
+88e3b197b42f626aef35aa38102f937eba1d3d16,19.110,,19.04
+0dd022b8371aef30850bd69c248bbe9708bc77c4,12.000,This commit contains no changed file,12 
+0038398a1a1b9c54eead92563c66b30173cf47c0,45.590,,45.83
+4f450d14ffd7776637e932e731d739cc95237186,12.000,,12.01
+93d1882874d9eb610d530afaa769a71f37d5677f,12.000,This commit contains no changed file,12 
+175a4c4305dc15e0031711b5f6c9d2cb3cc597d7,12.000,,12.24
+41185bbe140cde8d77131de76cf86bc66b8dde8c,12.000,This commit contains no changed file,12 
+0589e57d9a9bef10d4cb3a4555db0b8c494dac9e,12.000,This commit contains no changed file,12 
+a7996f418f2e1375aa91cbd98ab952a7162b4a26,12.000,,12.03
+254470f0bae9ec6363924547bb924c4abd86d1d2,12.000,This commit contains no changed file,12 
+dab78865921042aedf17a319777d1967a465a4c3,12.000,,12.17
+698963f1a5fb195d753e7c2496636923b03e0ab1,15.910,,16.11
+55a445b501d5eb54ada65f18b1070e681233ca19,69.840,,68.74
+3d12010f574b33e53fbfe8cb9ebaca6292112840,12.000,This commit contains no changed file,12 
+3d11e97ef544d0b023186f5a3831e18730168d5d,12.000,This commit contains no changed file,12 
+12cbee2cb45354c539687bee66bb967fd3f1d0ae,12.000,,12.14
+74286c0262eeebe98552485e9b664ccd86429f84,12.000,This commit contains no changed file,12 
+3bfe991403c454aefb3ce8d91ba910654cb85f8a,12.000,,12.05
+3ae7dd3a106d6b59380e35dfe6962a8c849316c8,267.890,,278.59
+eaf0f6ac1bc2f65770adf5ff6f17759485cd8072,106.950,,109.32
+86f7895b79ea5e34950621f0d45ca09b12f078c0,74.610,,76.85
+f225218115ef149af47894c2728c51a288fe4719,44.780,,45.13
+4bc94e80c74af652dd691dc1857a27ce9291ad7e,44.780,,44.65
+e29a8660c68d93b4bd2077f066571b68e3f82bb0,12.000,,12.13
+590fba857493d5b8fab811660ed3e99869292bbf,40.550,,41.63
+42e4eb0ffd609a2f94834e671ddc919d5f3f363d,12.000,This commit contains no changed file,12 
+55ab30f9d027d0333c3529dce9ae8ed652e871ee,12.000,,12.02
+f2e626cb6b5ee0c44742bf306a34980d45c0c732,12.000,This commit contains no changed file,12 
+74e7a5ec7fd2b48dbcdad0f84edaf6998f25e3dd,12.000,This commit contains no changed file,12 
+c7ebe5bc87cfe5cc4acbc6f5be954d4a540eba40,1620.580,,1663.17
+77f566a42d437c935b57e45d2e2fa33ad0aebedf,52.270,,52.29
+dc80f419ed659e2b6260a72f1b80cc6a5cd314cf,96.400,The build files have been changed. Prediction may not be accurate.,96.50
+46fd7f4ff73aac0813c4f81b955157ad9f984c9c,47.520,,49.20
+2e0acc8d33dc3db50d0c98c3671dd7541cc4f2da,12.000,This commit contains no changed file,12 
+562c644ebe2577e79aacc8081055eebec9d7e9f1,12.000,This commit contains no changed file,12 
+d71e45016bf03e43a4cc8ddbf77be829d8114acf,12.000,,12.11
+c0b6a7c9dd5975a7866163c48e7e03647d3f6fa5,16.600,,16.71
+f9b4ba9b029176b17fea635f6074f793594d0a3c,26.130,,27.53
+09633c16fc7eb1e07381248f67e3382f1abbdb55,12.000,,12.07
+92220d4aa0255475284a064e30b8389b6d7c0f88,12.000,This commit contains no changed file,12 
+f2fd417af9fdb4d92a87f3bd5e2cb888a82b0883,12.000,This commit contains no changed file,12 
+9656347aee1830fc75a7ab79fabfead5d7518aad,12.000,This commit contains no changed file,12 
+a423aea1b0729e7fecbd2b04e983eb589f59b86b,12.000,This commit contains no changed file,12 
+c5c1880ab61b37fa931f60ad359a0f1e4ee308c6,12.000,This commit contains no changed file,12 
+874b1ddcc908f74a157e86a8fb460efa68c375de,12.000,This commit contains no changed file,12 
+5932419eaa5d8ab978d838358b5b964a32f0e7a4,17.870,,18.20
+2e2d32aead67ca810a8d98b9f30d7d37b87bcca8,53.780,,55.97
+5bf6e9024a7f8ef91185f299ab3fe9f95531b71c,66.760,,68.01
+ef4e62325c8efacbae039b9a1d7bec2cf4c9fa5d,831.830,,850.71
+8b91c6e254965a5beaaf22ef065eaf5b006857c3,28.080,,28.90
+917752601d9b791b603c7d004c0d74d2b83c20c7,21.550,,21.42
+6f0c543fa21fb1d39160c981b42d4a5ff9354ba4,12.000,This commit contains no changed file,12 
+ae56f16893055267e483ce688ec278b50c2fa1f6,12.000,This commit contains no changed file,12 
+88ad1296f50204bbac6211dc98a3acad50ee7940,12.000,This commit contains no changed file,12 
+24ba3f80dc14be4f6999d5c8f087fafea45fa926,12.000,This commit contains no changed file,12 
+896865cf22984714fd1cb8fd76d464ca4bab3538,12.000,This commit contains no changed file,12 
+078f80b134d9de92216c2a8b2d5327a3da73ae00,19.230,,19.88
+96b994f163c05634e0d5641d3eaf1d4c8e2708b0,12.000,,12.31
+c66b00ab34dad326d5dbdd7a26639b15a75a3c47,55.140,The build files have been changed. Prediction may not be accurate.,86.53
+7e71d35d708697715c574c506eb0a058cbd8d594,12.000,This commit contains no changed file,12 
+0ff02aad8141d9efadbc74276f20002c10ade5bb,89.520,,90.07
+aa4e0d02d884a9aeb4cfbedb6868e52015a0baf7,12.000,,12.06
+c7d7de2832fdf6de3781156c44ae504442a523ac,12.000,,12.12
+80db62707523c02c37e18312612c0a99ed6a9498,12.000,This commit contains no changed file,12 
+167b8bd9d59077f0d13788259ebfbb1b3e655beb,12.000,This commit contains no changed file,12 
+61d9f7ae27c78ae6b418947d2dd53c4ca7d24df7,29.080,,29.81
+e665230b473205b809cd69e650039ffa5c062003,65.490,,67.71
+7a99bbb162c17f46d647b791d03e12b1448c7a6f,12.000,This commit contains no changed file,12 
+57daf0bcd1c32991bfec60902085eb9bede814b7,12.000,,12.20
+db9ac320b223af3a3eb963895f41faf1123ae150,12.000,This commit contains no changed file,12 
+d25867762a30c5478c658e8f318f70113d538959,12.000,This commit contains no changed file,12 
+a6ec431bc57e47db8f8fc1b7194b7949dd46a7f3,12.000,The build files have been changed. Prediction may not be accurate.,12.14
+22fc92d6c85e0f9c31133515528dad248c076369,12.000,This commit contains no changed file,12 
+23c99615a635b9a1ef45c5c97126e1b5d7bb2923,12.000,This commit contains no changed file,12 
+943c48c78b4c720d01cb2cd24a6028fb7093330a,12.000,This commit contains no changed file,12 
+ae48313cbf15a0744aad893c1c19ef09e10560b9,12.000,The build files have been changed. Prediction may not be accurate.,11.99
+72c0e640b4226536cabb1dd0feca01d9c42ed730,19.760,,20.81
+eee557a65061575eda52edfb15cfd88d65b48bc7,12.000,This commit contains no changed file,12 
+8320da244d6d4b631eef39ff77e2f190fbe1b0fe,12.000,The build files have been changed. Prediction may not be accurate.,12.20
+d6f7466d5fd1a2861a84582f8450ba5959f8bee3,12.000,,12.38
+f705958923ce323ac7937bba76ee9f06138b8eab,12.000,This commit contains no changed file,12 
+48fb792e0f5c91a5c3186b6519a944619cc375cb,12.000,,12.24
+13e4095de672ce380dfd0aaf634d7d9179e38b72,12.000,This commit contains no changed file,12 
+bff7ff5d6dff10b5d39d9cea16e38c0d047c2a61,12.000,This commit contains no changed file,12 
+d2013691999c8978b84db1623b905e8eff2d3035,12.000,This commit contains no changed file,12 
+d6a3449a43dabd1a375957dfbfa75a5aaeb8dc71,65.490,,67.74
+04db68834971246bcfaef3c0cfad68e0c7117e49,12.000,,12.25
+1816c05a2a5c6f56c140dfa28354d4aac4f2a041,12.000,This commit contains no changed file,12 
+1ab26ad6e98ea92f4ab78b82324146c30d873897,12.000,,12.26
+5b2d8b8e6687b5c69aa873b036155e8a1b89b933,12.000,The build files have been changed. Prediction may not be accurate.,12.04
+5c05c9152388cbb3e5c44be681818a6f70798981,44.780,,45.72
+dfe3dfb7cfbd3335d130e06ae34edf549e5f443a,12.000,This commit contains no changed file,12 
+1f890b9bfa5e45cdfd748f9147225907c980da00,69.110,,70.38
+26ad0555f08e9bce359305bfd96cc608b2681620,12.000,,12.18
+b1f2f2c7cc9d53853390dd20599455584c28aca6,12.000,,12.17
+9a1e465422df57ed1823e69cc286f1d2a5f05401,12.000,This commit contains no changed file,12 
+8b32c4d30e18faf8a044f1b729973250e805da2e,12.000,,12.26
+4edebb396efc533b6c2124a303f54c1df271b703,12.000,The build files have been changed. Prediction may not be accurate.,71.07
+1003d4f57b86a792b639a024443bce2d12236199,1970.480,,2025.85
+a1fdb774e867665e9f05a4ffd7e6c524b6b931d6,12.000,This commit contains no changed file,12 
+f12dce3b14e85f2cc944bf672b6560b1f202650f,12.000,This commit contains no changed file,12 
+f9c1d6c2d609ab928e47df46588d96e20787f70a,120.890,,123.79
+6f284f4f363f411413a5750003498dfe197914ae,12.000,This commit contains no changed file,12 
+db62b85e23941603d127584ed69f6ced356baccd,12.000,This commit contains no changed file,12 
+b7308b03029a66ce74b3fa3ec3ca0c7d8f4f54a3,12.000,,12.24
+dda6f307d97098cea5cbc9959d08241851232355,12.000,This commit contains no changed file,12 
+ac031ed42a939f8f79f827def05a96995068cb62,12.000,This commit contains no changed file,12 
+fbe63a11a726a0bd0d9814a6b8aec3d05ef86260,12.000,This commit contains no changed file,12 
+3dc9e25a4e222c13b5e2b9be54b4ff3f3d0905a6,12.000,This commit contains no changed file,12 
+ddde6eb892d84af4fef25de566d2783ca0cded33,12.000,This commit contains no changed file,12 
+4685181eaa30194d03dd81062986c6ac55a832b9,12.000,This commit contains no changed file,12 
+9d6e56d0b3209eaf2c09f4b79b684a4682e8e9fa,12.000,This commit contains no changed file,12 
+d3eb40431868497b1b6fac86ba0d2da257ce2fa9,12.000,,12.22
+9773af7baaea5d91808c241b51f29b4085e051d4,12.000,This commit contains no changed file,12 
+2d92eb8a69f503094b60bdfeebc3b2c969ea5c2b,12.000,This commit contains no changed file,12 
+7d1f8a3e87909a8875faf5988db801a589326969,12.000,This commit contains no changed file,12 
+560031870ef6d16e27df3518ba9aa146c2778d58,12.000,This commit contains no changed file,12 
+e3cb7d5ca62e2c8fa75212cad56085e0fc25d71e,12.000,This commit contains no changed file,12 
+5b0e258eb6bf8ddba968b1dd0dfd4a9ebbd00718,12.000,This commit contains no changed file,12 
+0b726b0652eaed3e958fac81d5f009fb18226d3e,12.000,This commit contains no changed file,12 
+c96458b925aa088707cc9a548c78e38acb7f616e,12.000,The build files have been changed. Prediction may not be accurate.,12.33
+e1ff886678728065790e13c3afae5585128bf1a3,12.000,,12.38
+16bb32d4c4e198749c0cf84291f603ea28f0d823,12.000,The build files have been changed. Prediction may not be accurate.,12.37
+f2aebb8674f6a203033203574e21804b3ce61bcd,12.000,,12.47
+9a7664086b6f6cebbccec54bd5592e6535739f41,15.350,,15.86
+bb9d1adc5d6c153f05cbdec033ac5d3b96bcf8ef,12.930,,12.27
+085b6986af7bd99f9f04fd1904b8aaff86e0fcbf,12.000,This commit contains no changed file,12 
+44e33c4a219d83009e55a46eb41bb4b431eab905,12.000,,12.24
+e2d88be28602cc29f58390ed6ab7bf21b8a86a18,12.000,,12.05
+091552c1a3749e744927e7d7cebe2b174c13d7dc,12.000,,12.37
+33fc6cf09997d82e759dae135c8bd2e50753c8f7,12.000,This commit contains no changed file,12 
+65533f12ccc895602cb78b98cea24b9cff70814c,12.000,,12.22
+45b6845a86fea68a76786ad1a4f837610e064dac,12.000,This commit contains no changed file,12 
+a6becaf66191c099ea56d756459c13fbd4563282,12.000,,12.35
+edc24bde3d846e52921897b164859461742dd4db,12.000,The build files have been changed. Prediction may not be accurate.,12.17
+49cca5cfcd2c42abfdf8dcc58cd0433d2601abed,18.890,,19.12
+db578abf6ecc997874de457dd949d3f004d28dd4,12.000,,12.28
+f09856c4931808756691c04f4f48b3d9c8cb61c4,12.000,This commit contains no changed file,12 
+08b09a16815049bb7cbbbe58935598dd0ebca842,12.000,This commit contains no changed file,12 
+dbfbd7ab995c8b46defde17efdd5eaa935a24531,12.000,This commit contains no changed file,12 
+f1ad92ce4183a827dd17f62af790270e8234f66b,60.830,The build files have been changed. Prediction may not be accurate.,119.64
+4b3c928a2a2abba5713d33f4c979690db87468bf,12.000,This commit contains no changed file,12 
+13a4f1c73c6829824cb51c001c549bc693f92a8c,12.000,This commit contains no changed file,12 
+a2f862953775670a42f36c78d8a52dcfee74b3d9,12.000,,12.11
+d243de7c2777c6dd3f0b286f2d3aed3501241f4d,12.000,This commit contains no changed file,12 
+e63d8302fa1249b9113b22421d518d79a8337ab2,13.590,,13.85
+d45f8a1fa284428be74095a4e808f98d6b37eb84,12.000,This commit contains no changed file,12 
+beee541e8e5456c4375327b2fd7d1f0fe5a50d7a,12.000,This commit contains no changed file,12 
+1b29adcaaeacbb21378705a291fab1e2b47e9d93,12.000,This commit contains no changed file,12 
+e824982b9db10d8797570917c8ca0a91f57e4b03,67.610,The build files have been changed. Prediction may not be accurate.,109.86
+de42d27fe3c2bb8662005d702ded16a76dcd2f30,12.000,This commit contains no changed file,12 
+8e985342d10325d34e9458ca22764389721455ba,12.000,This commit contains no changed file,12 
+5119521f35d0079dfb064effece4c74f422a0884,12.000,,13.26
+0f93b11d3dec2d1b803a397031c6cce8f89f9b57,12.000,,13.14
+4eac6a22c9993fe086b60f372b609b390233d427,12.000,This commit contains no changed file,12 
+6d6ea87e1a1b2031b044ac1d7fb7c9333bd56e7f,13.590,,14.25
+cef6a6f9d9a1c9881c07c78e8f41ad4aa6b6af7f,12.000,This commit contains no changed file,12 
+871aa6973f885891e0371708b948a24f5510987a,12.000,This commit contains no changed file,12 
+e08097669b4aebd903c35db9510e1a63b87bcb8a,12.000,This commit contains no changed file,12 
+b8e5be00913109ee3ca88b16efa0312efe7e4e74,12.000,This commit contains no changed file,12 
+49efb6aeba660778b5bfdec4bca7aad511feb32d,72.250,The build files have been changed. Prediction may not be accurate.,2.47
+b850d017c88db14be214ca984d40d382b82af709,12.000,This commit contains no changed file,12 
+083f7a8fa32b6cf3c3d66da05bd4f4e1e98a25b5,74.320,The build files have been changed. Prediction may not be accurate.,4.94
+4f297425a65970277c03237c571e32c1a5d29012,12.000,,0.35
+cc82a84442ca4ce475176902dc4f2496272d0233,12.000,This commit contains no changed file,12 
+6b0f16c92bc7c0b78022902af885d450f2acd362,12.000,This commit contains no changed file,12 
+4553664649233652d405861608a7f4991cdd68d2,12.000,,0.33
+b7666333c484406ff1aef256fcece6ef968e0b02,12.000,This commit contains no changed file,12 
+76d747778fd50ffa17eea753323b02be04100f27,12.000,This commit contains no changed file,12 
+212e9425e216e5db67c9aea4b7a29868f9bb6cc2,12.000,The build files have been changed. Prediction may not be accurate.,12.87
+d6e6d192a173276a90f02525c6d4029b7ce9f2c9,12.000,This commit contains no changed file,12 
+e427dbbb709d9fca1650f480dcb9b6158fc9fefe,12.000,This commit contains no changed file,12 
+440d0861aa3fcc89fb8c128d465a21d81c973c40,12.000,,13.13
+b4941b0719841f68302a3ae06327e09f81135521,13.480,The build files have been changed. Prediction may not be accurate.,77.91
+6444a407505d1106532fce16b6115afb124b1e48,12.000,This commit contains no changed file,12 
+caa4c93bc15c1082750792a7cb06ae07c284b84b,12.000,,12.12
+5f172a8ff682e0176f858f701b42858fdc374209,12.000,,12.57
+34bbe207d9f081e74a8636dc088cf149dade236c,15.740,,16.92
+873b9a8d18dacac58fbbbe5f1f64011582c1f502,12.000,This commit contains no changed file,12 
+6359b1e4db0b0b35cc221abf3656cb3da06ed13d,44.780,,50.67
+d26d128023a263ff8d1532cd1252ad55324c443f,91.030,,96.35
+ad3087db65bf323a90174959950a4b49c9207712,12.000,This commit contains no changed file,12 
+f4cbcb45c2fcd127882039e4d9c24708ef08ff19,12.000,,11.50
+56dc62aa7030e1637a4a7e7679700206e0d88482,12.000,This commit contains no changed file,12 
+0da3efb8b7e9ae1607156a8e66f4d20674287665,12.000,This commit contains no changed file,12 
+d0d6e8330acbc00fba201775c14cb88d8b75d54a,12.000,,12.44
+41c658017139d6a40d02c66c0074dc8e00f8d210,12.000,,11.72
+c4aaab42230be7e49a3ab6e4bf6a87e39db9e357,12.000,,12.60
+74de9b8cb0db13ec56fc4e797455cca0b153460b,12.000,,12.11
+45abed45d65b1084b05f26b5f2d8a8a6c4934062,12.000,,11.48
+c14475e361d9531936510fb4c15aba52666884dd,12.000,,11.42
+8eee6902473726c67366e725ec452f06d674afc8,66.840,The build files have been changed. Prediction may not be accurate.,108.83
+7f6c5050569642fa1c6217e14e291e70a007a8e3,12.000,This commit contains no changed file,12 
+7d259c6fd9c232ef1130e59ec97e308ad82ba06f,68.070,The build files have been changed. Prediction may not be accurate.,100.40
+88b9102fae035ad574e2c35f2de26390ae51c0fd,12.000,This commit contains no changed file,12 
+1f1f9f472631ba6827a7b956c7534e96b79663e8,12.000,,12.47
+ecf9b650f423190c5890e76dfc200b4d0f2461ea,12.000,,12.19
+e479eb83e471b22174f0e887a59b823fa548bc78,12.000,,12.18
+adfcbec4414c9b580db8852d594aee13eb41dadc,12.000,,12.31
+e85dbe609379ec2af7a97b7ece1ff3c0eef36bc4,12.000,,12.36
+4cf2fa381f966e4a3b6994fd9b7c8a8cbb132a59,12.000,,12.23
+2e6243d400e182c334ed541b687bcf923cc9115f,12.000,,12.29
+0c75ddd386de634ce77c218ebc509b9b009b68b7,12.000,,12.30
+bee2a598ae11dd2eacea22620fdf553b73692749,12.000,,12.21
+163f308b47da339392b85b28e8a199f266a098a2,12.000,,12.34
+55e8252da74c3276eb75f4289d881f09ab4d5802,12.000,The build files have been changed. Prediction may not be accurate.,12.31
+ce74643b502773db817511cd24dc8afbef6faa44,81.980,,83.64
+72b9f62ee6231b3a1afc982d295f92d13297fc62,54.120,,55.31
+14698b35f3c98c9c532ae7733dcb1bec2c0f8a30,12.000,,12.49
+e1b56ba0b8bdcacb138c842ad474a2f23956c3f8,23.590,The build files have been changed. Prediction may not be accurate.,71.84
+0f56b8682247533bfb20a4c837123a2354059658,23.600,,24.24
+f30ed9cd232033952775ac090deb467bff6f000e,23.590,The build files have been changed. Prediction may not be accurate.,71.25
+a04250c45675d43e8c42492efd5102593dca2f12,23.590,The build files have been changed. Prediction may not be accurate.,2906.04
+1b9729b4dffc884fc828fb725f2844af82281727,23.600,,24.09
+a5d29bbd2d5fd3400896ef9799ee411c0bdd6622,23.600,The build files have been changed. Prediction may not be accurate.,73.43
+e99aedf8f6469249c0e919f90a29d91948d29053,12.000,This commit contains no changed file,12 
+2ed578852ba88090e7865f083a8d9b80f0075801,12.000,This commit contains no changed file,12 
+8e5648faee20131059f475528fef523a7d06ed97,12.000,,12.56
+449410b5a1d40d869cf5aef379bf96cddd0c9849,12.000,,12.68
+a26dc789c0138beaeb93b0a8850675e9a33bafb3,12.000,The build files have been changed. Prediction may not be accurate.,12.29
+d57962d7e5ef4d1669b7b9f2c45010bad7c9976d,12.000,This commit contains no changed file,12 
+00851f6451a7ee965dc4831df3b805a3f6dcdc45,12.000,This commit contains no changed file,12 
+9ddc3eba53153c05e601419b69e94bc309747111,12.000,,12.34
+df9b9dbc71a4be17b66e95dbb48d92b9dc267e79,44.780,The build files have been changed. Prediction may not be accurate.,106.75
+98657950c0aef22eeb281d6b27fdc463d017f872,1632.600,,1724.86
+6316820808236dc66cdf52e7508b74475227ca3d,1817.740,,1879.59
+b21bb400681a7c6fb15a9fd82f91acd251e2f4f6,1817.740,,1891.48
+8873e81132b8abff30b2427fbaceb695ce826a09,2499.110,,2595.00
+ba0a6dc287a4416a6e71ef79e91eeb2f7783e140,51.310,,51.87
+a8360659625658e1ac20a46618ded4639add677d,12.000,This commit contains no changed file,12 
+2a4d43612638950452958b14fdccfa255b3ff128,12.000,This commit contains no changed file,12 
+d152663580978b9c460174d5bba0cef85182025e,1614.440,,1664.55
+924248d9a4a8038e7c314adb6e4486fc695c31da,280.260,,292.31
+d023a36fcb8bd707dc3eedb6336bd72e388c485d,12.000,,12.35
+426987d973001b55617aab5b38ece430a702808f,12.000,This commit contains no changed file,12 
+e0d01b00937302829a91999783cdc449bd7065cf,873.860,The build files have been changed. Prediction may not be accurate.,925.67
+dbeeafd4507bf3da8f125550f4db166a118c0b63,12.000,This commit contains no changed file,12 
+a1dbc97d8e1a9377d3c167a5459115fd87c94fe9,12.000,,12.11
+2cbef7a777cc2c935f6f5223a8abb7f1b7c4e2cd,12.000,,12.19
+a6d74331eb0260b7f030ce8a7014843f1adace4f,12.000,This commit contains no changed file,12 
+743bd12a6a8bdafaad0f93132ae41929c4cb24ad,12.000,,12.23
+032cf816b80b74e1309d4da73a1b2e84f7017b49,12.000,This commit contains no changed file,12 
+1c5730125f07bb86444d0d513a06e275f9b3ed91,12.000,The build files have been changed. Prediction may not be accurate.,12.12
+1ec1fd0226c3259b7494e5c2dba4cf310fde9b4d,12.000,This commit contains no changed file,12 
+739364c8ab085fe9402921e47d5a3a979bcde13c,12.000,The build files have been changed. Prediction may not be accurate.,12.23
+54aab8a93ffc965a323dbafed95bd86448153ed2,12.000,,12.26
+758745b3274eaac40b6a238ae32db2531b4b02aa,12.000,The build files have been changed. Prediction may not be accurate.,70.19
+cff02ab2d9e53f54e7bb5b62e6e286a1ae9980f6,40.550,The build files have been changed. Prediction may not be accurate.,71.22
+2b5792f7746fecaf5cb04fe88eca08017e526727,13.050,The build files have been changed. Prediction may not be accurate.,71.39
+4166cd1d97f6ba9323d4a5e934652cd4db5f641d,53.800,,56.20
+136c17f104b6ed9041adb9bb8bef9945942abb74,72.600,,73.41
+9645f93b4b9ca4c765ae6f6e95c2c51d5f189968,28.730,,28.61
+a7560654bc72e18ebfdfa925b23d779b3d49ff25,19.790,,20.61
+3e0306fd8c99b8d28290e13974978d7f1ac2adb8,20.510,,20.91
+46b25254fb1ca092cfa80a5bd9ea611a6aaca881,15.570,,15.62
+2f55c52ac64623bd3b7b9f06ea1b659d21ec01d9,12.000,,12.14
+0d8721089dd278972555c8babea49e2ff59e968d,12.000,,12.09
+8ebd38a0a45fec1d012084388cbebc4302bc8418,12.000,The build files have been changed. Prediction may not be accurate.,11.95
+0a2b5396d68cc63bdf5725558e70093f7dbd4e26,12.000,,12.33
+67eb308683eb4a67fbc8b9d6950c5bf84b592874,12.000,The build files have been changed. Prediction may not be accurate.,69.87
+9e7af0532c18197d3a7f3883f8d064d5698a5d2d,12.000,,12.10
+0cdc96fef9c8bb018cf54255e6eca966be2ce61a,12.000,,12.04
+b07572860b1b4e982342bcb1d97609fe771b3d72,12.000,,12.12
+2bb21722494e7bf036635dfc5ef0a76b6ded1332,12.000,,12.19
+42c10c5767eca4c693a08b1f5bac58c879e674c0,12.000,,12.16
+828e63ad49fbb3707d8091c24e7525c12c49b4e6,12.000,,12.11
+7a26d2c73ff82963a83ec03932e50b83f2c4c1e7,12.000,,12.22
+29565a14157c2158e28c1f8a6dbdc34a4d524371,12.000,,12.12
+a43a0543200ab603216326270976f246aa79b4ae,12.000,,12.25
+abf3d548f712bd8dc47a431d281243b2a9178fa0,12.000,,12.11
+d2df89ffa46b9664f5ad3b7c018a0e74f4f3c0c7,12.000,,12.05
+5e67d946cae1c29630e7ff58e5aa53c728541947,12.000,,12.11
+7a20d0e86d773cad495e6651b92dad687601a4bb,12.000,,12.04
+c1698f8d813c3f5995c3086ae9b17ad0f0d01116,12.000,,12.08
+010ff6c8152317addfad32b25df1d5d55afc2e02,12.000,,12.33
+c9f90fae61d0693d68c8848fd4588a863f50d3c1,12.000,,12.12
+9269fbef1c551f2f768d2513a5b86f48e1ddd596,12.000,,12.13
+8dafe11f1fb1cacf2a7c9dfddf93fa31570c821d,12.000,,12.04
+32b79879f2d267bbf3185bef2243e768d61135aa,12.000,,12.30
+84e69fda90aed6095b3102606319c654af8c3137,12.000,,12.34
+f4f363426d12bf09741dc2d8f06f29cf68c2ab82,12.000,,12.20
+d121493cc36175325c1e9ac4aff8648e26c31f20,12.000,,12.44
+f1e4e6ef7bddfeb10f97a2af3fb5bb66176d8f76,12.000,,12.23
+a2db83b31bf0d8cd07d071beda01f4ee6fced79d,12.000,,12.34
+251e31427431e32a8cfed890f67b954ef3dc69b0,12.000,,12.13
+84c643a5a3c9a60f8ac71c28dbe5da37df56d8ae,12.000,,12.01
+004316e5f7502b934474cd9b189f53eecdbb51cb,12.000,,12.16
+df812670331a849329b9d03f2a85b55eb60e8980,12.000,,12.07
+39b558aace34e4969a37b30a658bfae82226594a,15.570,,15.80
